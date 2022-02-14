@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: CourseSection
 resourcetype: Image
 title: 9-00SC_stat-students.png
+type: OCWImage
 uid: b1ad50ae-73c2-5fa3-64bc-4dda1e765a3d
 ---

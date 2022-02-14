@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Brain II: Methods of Research'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Sample Studies: Social Cognition (Empathy) & Vegetative States'
 uid: 95a66503-2b2f-9643-44f4-1013f60528d6

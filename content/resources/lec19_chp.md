@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Stress
+parent_type: CourseSection
 resourcetype: Image
 title: lec19_chp.jpg
+type: OCWImage
 uid: 2cf8f0f9-1607-979c-4c97-ea915322d0a2
 ---

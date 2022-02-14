@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Discussion: Social Psychology'
+parent_type: CourseSection
 resourcetype: Image
 title: Asch_experiment.jpg
+type: OCWImage
 uid: 185d3f8a-dae4-3377-f55b-abb0afad6d23
 ---

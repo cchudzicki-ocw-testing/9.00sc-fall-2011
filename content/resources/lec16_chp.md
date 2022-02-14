@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Personality
+parent_type: CourseSection
 resourcetype: Image
 title: lec16_chp.jpg
+type: OCWImage
 uid: 071e94d8-4f2b-93fb-8c2f-2c05603d032b
 ---

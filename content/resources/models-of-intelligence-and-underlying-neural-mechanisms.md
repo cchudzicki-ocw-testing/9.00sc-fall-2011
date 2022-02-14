@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Intelligence
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Models of Intelligence and Underlying Neural Mechanisms
 uid: 8e6fac08-a03d-e72c-ff73-ecba15357b50

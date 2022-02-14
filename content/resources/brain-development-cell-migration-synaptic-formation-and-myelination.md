@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Adult Development
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Brain Development: Cell Migration, Synaptic Formation, and Myelination'
 uid: 8b2c0bdb-54c5-65ec-f308-4aabaa924444

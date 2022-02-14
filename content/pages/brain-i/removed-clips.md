@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: 'Brain I: Structure and Functions'
+parent_type: CourseSection
 parent_uid: bed1d5fc-a69c-1587-2254-555a74b510d1
 title: 'Removed Clips for Video Lecture 3: Brain I'
+type: CourseSection
 uid: b7f97161-49d0-b07d-6f9a-7c1ef6dfdeea
 ---
 

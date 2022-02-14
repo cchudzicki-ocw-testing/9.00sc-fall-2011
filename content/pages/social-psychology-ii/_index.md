@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Social Psychology II
+type: CourseSection
 uid: 25a2c26c-7f10-9797-3af3-7971963c5415
 ---
 

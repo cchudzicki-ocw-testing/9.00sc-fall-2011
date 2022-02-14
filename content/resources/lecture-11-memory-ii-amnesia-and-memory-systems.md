@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Memory II: Amnesia and Memory Systems'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Memory II: Amnesia and Memory Systems'
 uid: 7b7f98a2-c183-a7b0-53a2-ef60ecb3c2aa

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Psychopathology I
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Modern and Historical Viewpoints on Psychopathology
 uid: 77e47e00-8df0-648a-05ff-10e600354194

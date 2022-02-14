@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Social Psychology I
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Fundamental Attribution Error and Cognitive Busyness
 uid: 3e30be2b-4e19-d884-680e-62c5272b88d1

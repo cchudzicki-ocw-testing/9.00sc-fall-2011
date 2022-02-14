@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Vision II
+parent_type: CourseSection
 parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 title: 'Discussion: Vision'
+type: CourseSection
 uid: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
 ---
 

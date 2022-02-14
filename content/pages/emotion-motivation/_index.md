@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Emotion & Motivation
+type: CourseSection
 uid: b4449121-7bca-c751-42a3-a4cbf60a35fa
 ---
 

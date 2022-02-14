@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Language
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Influencing Decisions: Anchoring, Adjustment, and Framing'
 uid: 14278394-fa33-606f-7efa-b4bf8f62fa86

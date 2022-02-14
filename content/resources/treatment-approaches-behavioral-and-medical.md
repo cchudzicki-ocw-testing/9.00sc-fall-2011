@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Psychopathology II
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Treatment Approaches: Behavioral and Medical'
 uid: 5a2c84f5-54fc-34f0-b498-7b12eef90e76

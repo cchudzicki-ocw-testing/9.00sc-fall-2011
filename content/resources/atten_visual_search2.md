@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Discussion: Attention'
+parent_type: CourseSection
 resourcetype: Image
 title: atten_visual_search2.jpg
+type: OCWImage
 uid: 2f343c80-8c77-0e15-47cd-89e102f5c7d9
 ---

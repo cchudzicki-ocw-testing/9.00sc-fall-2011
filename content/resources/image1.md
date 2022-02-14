@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Discussion: Memory'
+parent_type: CourseSection
 resourcetype: Image
 title: image1.jpg
+type: OCWImage
 uid: 1086a5ac-abb2-1250-1bcc-21964183f6c1
 ---

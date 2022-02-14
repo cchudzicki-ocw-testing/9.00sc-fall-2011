@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Thinking
+parent_type: CourseSection
 resourcetype: Image
 title: lec13_chp.jpg
+type: OCWImage
 uid: d4af182f-9138-1c42-6d44-8d816ac7c14f
 ---

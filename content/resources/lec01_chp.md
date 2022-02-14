@@ -8,7 +8,11 @@ image_metadata:
   credit: Public domain.
   image-alt: Optical illusion of white grid on black background, with apparent flashing
     black dots in the grid crossings.
+learning_resource_types: []
+parent_title: Introduction
+parent_type: CourseSection
 resourcetype: Image
 title: lec01_chp.jpg
+type: OCWImage
 uid: 8b5e8f78-970f-3f7c-1f2c-f23822fbb08b
 ---

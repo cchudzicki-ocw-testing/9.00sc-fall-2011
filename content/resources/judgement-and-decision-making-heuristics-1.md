@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Thinking
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Judgement and Decision Making: Heuristics'
 uid: ef87dd57-1b13-e6fb-e56f-ccf86a05c79d

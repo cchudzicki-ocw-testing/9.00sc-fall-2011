@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Language
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Language Acquisition: Infants, Bilingualism, and the Case of Genie'
 uid: 8426d2de-f485-c0e0-20d4-c37a8e930ead

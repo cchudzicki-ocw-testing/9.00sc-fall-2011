@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Social Psychology I
+parent_type: CourseSection
 resourcetype: Image
 title: 9.00sc-lec22-socpsy1.jpg
+type: OCWImage
 uid: 0dac5d87-794f-96da-7cd6-3cfcbdc30ede
 ---

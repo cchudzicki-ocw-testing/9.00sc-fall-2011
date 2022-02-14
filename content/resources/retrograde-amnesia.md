@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Memory II: Amnesia and Memory Systems'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Retrograde Amnesia
 uid: 35f37a69-1949-1d6a-e7fa-da386f49ee5d

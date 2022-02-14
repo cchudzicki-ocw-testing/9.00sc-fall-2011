@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Consciousness
+parent_type: CourseSection
 resourcetype: Image
 title: lec08_chp.jpg
+type: OCWImage
 uid: 3e4eb25c-70d3-4d65-e687-9ada0e2cdc5d
 ---

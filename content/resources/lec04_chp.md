@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Brain II: Methods of Research'
+parent_type: CourseSection
 resourcetype: Image
 title: lec04_chp.jpg
+type: OCWImage
 uid: ac4d4ddb-9e8d-b4f0-b735-6040cec313e2
 ---

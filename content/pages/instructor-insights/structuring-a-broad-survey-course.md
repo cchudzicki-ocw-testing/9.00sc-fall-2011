@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Structuring a Broad Survey Course
+type: CourseSection
 uid: 54378383-2e19-5046-fc73-49997af088ba
 ---
 

@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Teaching Students to Evaluate Research
+type: CourseSection
 uid: a81fc7d7-a253-4f91-909e-a35a0e30665a
 ---
 

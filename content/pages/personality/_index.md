@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Personality
+type: CourseSection
 uid: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
 ---
 

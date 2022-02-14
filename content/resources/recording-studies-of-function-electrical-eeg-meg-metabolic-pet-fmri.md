@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Brain II: Methods of Research'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Recording Studies of Function: Electrical (EEG, MEG) & Metabolic (PET, fMRI)'
 uid: 208e1f3a-a3ae-b14d-ed27-9fc9c3c93896

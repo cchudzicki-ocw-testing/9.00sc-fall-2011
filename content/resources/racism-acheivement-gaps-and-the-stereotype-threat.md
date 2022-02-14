@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Intelligence
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Racism, Acheivement Gaps, and the Stereotype Threat
 uid: 9d08d6d0-1c09-9db8-90bd-6bd5a091070e

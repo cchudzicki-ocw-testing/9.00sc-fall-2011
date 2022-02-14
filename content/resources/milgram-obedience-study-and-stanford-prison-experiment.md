@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Social Psychology I
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Milgram Obedience Study and Stanford Prison Experiment
 uid: 84923cbe-3262-7681-2344-85d1e2a3be04

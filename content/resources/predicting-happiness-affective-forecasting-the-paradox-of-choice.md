@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Conclusions: Evolutionary Psychology, Happiness'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Predicting Happiness: Affective Forecasting, the Paradox of Choice'
 uid: 12be22cc-9039-04db-ea3f-01df0fc662b8

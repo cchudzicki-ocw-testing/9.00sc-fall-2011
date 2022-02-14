@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Discussion: Personality'
+parent_type: CourseSection
 resourcetype: Image
 title: lec16_diss_img2.jpg
+type: OCWImage
 uid: a933880b-10f9-0805-73d0-655d36975be0
 ---

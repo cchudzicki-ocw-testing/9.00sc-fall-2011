@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Brain I: Structure and Functions'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Brain Overview: Historical Viewpoints, Neurons, Gross Anatomy'
 uid: 299e33ee-3b09-cb78-87d1-f573ddd7d19f

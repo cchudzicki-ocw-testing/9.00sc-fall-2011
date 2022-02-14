@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Conclusions: Evolutionary Psychology, Happiness'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Happiness: Can It Be Measured and Studied?'
 uid: d2fb1273-3c39-f2e1-d3a6-a45bc127d0c4

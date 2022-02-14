@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'How Our Minds Make our Worlds: Hearing, Learning, Memory'
 uid: 222b1190-d549-70c2-c264-7632c1fec48c

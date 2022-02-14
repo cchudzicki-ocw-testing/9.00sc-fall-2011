@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: Courtesy of Grant MacDonald on Flickr (http://www.flickr.com/photos/grantmac/1472315798/)
   image-alt: Photo of broken windows.
+learning_resource_types: []
+parent_title: Science & Research
+parent_type: CourseSection
 resourcetype: Image
 title: lec02_chp.jpg
+type: OCWImage
 uid: 944e8f93-3a52-055b-5fe3-a6506ee322d9
 ---

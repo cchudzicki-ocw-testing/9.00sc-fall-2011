@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Conclusions: Evolutionary Psychology, Happiness'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Conclusions'
 uid: 598d7599-2cca-83fd-3f3d-dd66b7b8b190

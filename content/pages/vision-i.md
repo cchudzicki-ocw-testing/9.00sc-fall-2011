@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Vision I
+type: CourseSection
 uid: 6006b7d1-2269-c4a2-b231-88660361c816
 ---
 

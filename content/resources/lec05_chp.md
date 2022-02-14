@@ -9,7 +9,11 @@ image_metadata:
   image-alt: Schematic diagram of the binocular visual field mapped to eyes and optic
     nerves, extended through a horizontal section of brain depicting LGN, optic radiation,
     and primary visual cortex.
+learning_resource_types: []
+parent_title: Vision I
+parent_type: CourseSection
 resourcetype: Image
 title: lec05_chp.jpg
+type: OCWImage
 uid: f464a2c8-0ae3-afc4-b8cf-abc27e724b06
 ---

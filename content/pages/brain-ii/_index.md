@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Brain II: Methods of Research'
+type: CourseSection
 uid: 6026acd4-95f8-e039-d1e8-11a66efa90b3
 ---
 

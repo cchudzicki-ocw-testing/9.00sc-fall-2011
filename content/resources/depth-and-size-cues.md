@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Discussion: Vision'
+parent_type: CourseSection
 resourcetype: Image
 title: Depth-and-Size-Cues.jpg
+type: OCWImage
 uid: d45166c8-31a4-8fe5-fdf3-61352e4e43f1
 ---
