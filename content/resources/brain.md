@@ -12,6 +12,5 @@ parent_title: 'Discussion: Vision'
 parent_type: CourseSection
 resourcetype: Image
 title: brain.jpg
-type: OCWImage
 uid: c426065b-358b-dce0-1cbc-6376d17c2b25
 ---

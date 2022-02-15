@@ -8,6 +8,5 @@ parent_title: Social Psychology I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec22_socpsych1.pdf
-type: OCWFile
 uid: e0e09902-0314-9ab3-d54d-9f041015adee
 ---

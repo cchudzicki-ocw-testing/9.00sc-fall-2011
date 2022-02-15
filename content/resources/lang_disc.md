@@ -8,6 +8,5 @@ parent_title: 'Discussion: Language'
 parent_type: CourseSection
 resourcetype: Other
 title: lang_disc.mp3
-type: OCWFile
 uid: d5adcb19-ef26-a39e-2de7-c3a6ec704258
 ---

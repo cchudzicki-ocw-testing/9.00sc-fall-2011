@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Learning
-type: CourseSection
 uid: ac69f1eb-8793-b39a-98cb-15527df3770a
 ---
 

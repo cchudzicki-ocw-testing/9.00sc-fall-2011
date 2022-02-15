@@ -10,6 +10,5 @@ parent_title: '"Extra Credit" Writing Assignment'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_wax_bioethics.pdf
-type: OCWFile
 uid: 1dba9754-1074-d58c-452f-1cb091342198
 ---

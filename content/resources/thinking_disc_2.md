@@ -8,6 +8,5 @@ parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection
 resourcetype: Other
 title: thinking_disc_2.mp3
-type: OCWFile
 uid: 5c6a4582-dce0-08b8-a714-408f21413264
 ---

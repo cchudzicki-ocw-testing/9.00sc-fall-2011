@@ -12,6 +12,5 @@ parent_title: Memory I
 parent_type: CourseSection
 resourcetype: Image
 title: 9.00sc-lec10-mem1.jpg
-type: OCWImage
 uid: 14ca5166-fdcf-2b9d-a190-3b3366aeb6ed
 ---

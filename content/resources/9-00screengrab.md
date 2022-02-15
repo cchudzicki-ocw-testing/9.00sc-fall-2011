@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 resourcetype: Image
 title: Teaching introduction to Psychology
-type: OCWImage
 uid: 6292739a-b7b4-d179-5af6-28632e6d04eb
 ---

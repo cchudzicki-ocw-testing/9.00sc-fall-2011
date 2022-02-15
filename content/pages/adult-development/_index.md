@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Adult Development
-type: CourseSection
 uid: 16d028ce-a283-f227-fed3-766ed19d3957
 ---
 

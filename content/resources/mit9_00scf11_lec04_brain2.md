@@ -8,6 +8,5 @@ parent_title: 'Brain II: Methods of Research'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec04_brain2.pdf
-type: OCWFile
 uid: e6fd1fa0-b4e0-a529-0f3a-1aeb3ccb0f43
 ---

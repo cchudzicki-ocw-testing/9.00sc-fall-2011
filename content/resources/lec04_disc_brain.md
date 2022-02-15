@@ -12,6 +12,5 @@ parent_title: 'Discussion: Brain'
 parent_type: CourseSection
 resourcetype: Image
 title: lec04_disc_brain.jpg
-type: OCWImage
 uid: 154616dc-9ae6-66b1-b1ee-b68af17e57de
 ---

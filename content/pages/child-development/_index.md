@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Child Development
-type: CourseSection
 uid: 997bafe5-99f3-c3e0-e5a8-007934413597
 ---
 

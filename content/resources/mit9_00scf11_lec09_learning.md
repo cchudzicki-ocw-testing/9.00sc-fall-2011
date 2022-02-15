@@ -8,6 +8,5 @@ parent_title: Learning
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec09_learning.pdf
-type: OCWFile
 uid: a7d978ec-1b58-fd1b-1f52-a442d807c40b
 ---

@@ -8,6 +8,5 @@ parent_title: Thinking
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec13_think.pdf
-type: OCWFile
 uid: 7da18b22-e745-677e-ae11-5a50e3a89179
 ---

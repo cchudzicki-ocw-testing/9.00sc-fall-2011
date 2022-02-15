@@ -8,6 +8,5 @@ parent_title: Exam 2
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_exam2.pdf
-type: OCWFile
 uid: 1cb6b9c6-044b-bc45-708b-ac6ef370971a
 ---

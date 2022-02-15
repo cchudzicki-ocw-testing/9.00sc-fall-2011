@@ -12,6 +12,5 @@ parent_title: 'Discussion: Attention'
 parent_type: CourseSection
 resourcetype: Image
 title: atten_blink.jpg
-type: OCWImage
 uid: 70e6db00-ae91-0c76-52ea-08589cadd8b8
 ---

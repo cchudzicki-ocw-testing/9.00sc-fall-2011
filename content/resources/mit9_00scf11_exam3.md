@@ -8,6 +8,5 @@ parent_title: Exam 3
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_exam3.pdf
-type: OCWFile
 uid: bc7dda4d-da81-d7bc-3c71-51a1f503a77d
 ---

@@ -3,7 +3,6 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 title: Instructor Insights
-type: CourseSection
 uid: b4984c35-7427-1ba3-965f-29e67252d227
 ---
 

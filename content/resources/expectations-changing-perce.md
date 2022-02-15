@@ -12,6 +12,5 @@ parent_title: 'Discussion: Vision'
 parent_type: CourseSection
 resourcetype: Image
 title: Expectations-Changing-Perce.jpg
-type: OCWImage
 uid: 06351388-2d91-1596-036d-c5afb3454952
 ---

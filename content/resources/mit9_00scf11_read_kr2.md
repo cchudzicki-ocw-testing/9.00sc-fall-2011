@@ -9,6 +9,5 @@ parent_title: 'Brain I: Structure and Functions'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr2.pdf
-type: OCWFile
 uid: 0b4239da-8941-ad63-b996-4edbe5563106
 ---

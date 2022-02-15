@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Bringing Demonstrations into the Classroom
-type: CourseSection
 uid: af850264-7197-6cae-0c8d-72f135ef0d30
 ---
 

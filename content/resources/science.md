@@ -12,6 +12,5 @@ parent_title: Teaching Students to Evaluate Research
 parent_type: CourseSection
 resourcetype: Image
 title: science.JPG
-type: OCWImage
 uid: 88f66be3-6d18-bc9e-4ca3-164a5c8e6ac7
 ---

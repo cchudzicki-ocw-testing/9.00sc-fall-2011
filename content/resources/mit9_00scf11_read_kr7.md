@@ -9,6 +9,5 @@ parent_title: Emotion & Motivation
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr7.pdf
-type: OCWFile
 uid: 346b32b9-1187-cd48-8571-d14bfc942eab
 ---

@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Exam 3
-type: CourseSection
 uid: 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778
 ---
 

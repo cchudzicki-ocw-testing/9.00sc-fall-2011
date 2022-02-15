@@ -12,6 +12,5 @@ parent_title: 'Discussion: Memory'
 parent_type: CourseSection
 resourcetype: Image
 title: image5.jpg
-type: OCWImage
 uid: a7ebdb05-4904-d828-009b-8ba8aeb48cb2
 ---

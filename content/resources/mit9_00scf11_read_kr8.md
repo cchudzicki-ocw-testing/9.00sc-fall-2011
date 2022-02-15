@@ -8,6 +8,5 @@ parent_title: Personality
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr8.pdf
-type: OCWFile
 uid: 9f9c8343-21e7-c5b6-777f-17db602245c8
 ---

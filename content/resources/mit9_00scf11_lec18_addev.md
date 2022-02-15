@@ -8,6 +8,5 @@ parent_title: Adult Development
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec18_AdDev.pdf
-type: OCWFile
 uid: bc490b43-1cb6-de0f-2a86-0db277718f38
 ---

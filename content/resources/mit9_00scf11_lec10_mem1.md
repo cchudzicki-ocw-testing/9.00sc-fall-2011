@@ -8,6 +8,5 @@ parent_title: Memory I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec10_mem1.pdf
-type: OCWFile
 uid: 70cf036a-2352-8eda-fdc8-9c66b91ee198
 ---

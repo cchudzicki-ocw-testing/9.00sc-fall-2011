@@ -12,6 +12,5 @@ parent_title: 'Discussion: Vision'
 parent_type: CourseSection
 resourcetype: Image
 title: Color-Blindness.jpg
-type: OCWImage
 uid: 8cb55770-af65-6f2a-b379-1779368e88cb
 ---

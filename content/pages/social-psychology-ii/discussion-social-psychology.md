@@ -5,7 +5,6 @@ parent_title: Social Psychology II
 parent_type: CourseSection
 parent_uid: 25a2c26c-7f10-9797-3af3-7971963c5415
 title: 'Discussion: Social Psychology'
-type: CourseSection
 uid: 77c8fc5b-e4ad-5423-475a-195d788a8976
 ---
 

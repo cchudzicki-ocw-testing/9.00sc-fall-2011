@@ -12,6 +12,5 @@ parent_title: Science & Research
 parent_type: CourseSection
 resourcetype: Image
 title: lec02_chp.jpg
-type: OCWImage
 uid: 944e8f93-3a52-055b-5fe3-a6506ee322d9
 ---

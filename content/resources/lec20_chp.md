@@ -12,6 +12,5 @@ parent_title: Psychopathology I
 parent_type: CourseSection
 resourcetype: Image
 title: lec20_chp.jpg
-type: OCWImage
 uid: d8cd2b83-5f2d-80b5-e415-52d4737de842
 ---

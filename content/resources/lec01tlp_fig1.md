@@ -12,6 +12,5 @@ parent_title: 'Removed Clips for Video Lecture 1: Introduction'
 parent_type: CourseSection
 resourcetype: Image
 title: lec01tlp_fig1.jpg
-type: OCWImage
 uid: 41fbc35b-14a2-3ab2-4a41-5c9a2c281f49
 ---

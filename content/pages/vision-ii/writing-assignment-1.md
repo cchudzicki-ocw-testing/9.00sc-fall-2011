@@ -5,7 +5,6 @@ parent_title: Vision II
 parent_type: CourseSection
 parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db
 title: Writing Assignment 1
-type: CourseSection
 uid: f3463455-6b38-505f-cc40-71a3b43caa1b
 ---
 

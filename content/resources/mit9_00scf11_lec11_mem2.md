@@ -8,6 +8,5 @@ parent_title: 'Memory II: Amnesia and Memory Systems'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec11_mem2.pdf
-type: OCWFile
 uid: 49b47a33-1949-f4fc-37e9-a61f17420ab4
 ---

@@ -12,6 +12,5 @@ parent_title: Intelligence
 parent_type: CourseSection
 resourcetype: Image
 title: lec14_chp.jpg
-type: OCWImage
 uid: 05b61f8b-3858-dcf1-0075-92ef02b30d05
 ---

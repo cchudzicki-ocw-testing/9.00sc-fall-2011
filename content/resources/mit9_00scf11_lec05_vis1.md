@@ -8,6 +8,5 @@ parent_title: Vision I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec05_vis1.pdf
-type: OCWFile
 uid: caa50090-8dc7-fdfe-57e6-1847adf8276e
 ---

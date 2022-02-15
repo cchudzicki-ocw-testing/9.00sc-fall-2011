@@ -8,6 +8,5 @@ parent_title: Child Development
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec17_child.pdf
-type: OCWFile
 uid: 03f8c32c-b1c8-d2df-fd0b-51375fc0b389
 ---

@@ -5,7 +5,6 @@ parent_title: Consciousness
 parent_type: CourseSection
 parent_uid: 504a0556-a3d6-731e-b23a-dd60493cf4d4
 title: 'Removed Clips for Video Lecture 8: Consciousness'
-type: CourseSection
 uid: 9d65bfba-aaa6-3884-7c55-eea934196c37
 ---
 

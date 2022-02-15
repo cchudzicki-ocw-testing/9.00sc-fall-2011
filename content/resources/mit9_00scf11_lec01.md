@@ -8,6 +8,5 @@ parent_title: Introduction
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec01.pdf
-type: OCWFile
 uid: 568e0d32-a240-1684-b5da-ca281261f210
 ---

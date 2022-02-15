@@ -12,6 +12,5 @@ parent_title: 'Discussion: Attention'
 parent_type: CourseSection
 resourcetype: Image
 title: atten_visual_search4.jpg
-type: OCWImage
 uid: a0e95630-2f58-3697-4683-8cafde6e2f63
 ---

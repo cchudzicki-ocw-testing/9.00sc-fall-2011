@@ -8,6 +8,5 @@ parent_title: Memory I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr5.pdf
-type: OCWFile
 uid: 9e70f608-6eb2-8062-9f7b-d8c53e8fde7b
 ---

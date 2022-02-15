@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Intelligence
-type: CourseSection
 uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 ---
 

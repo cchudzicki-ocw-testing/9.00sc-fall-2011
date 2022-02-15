@@ -9,6 +9,5 @@ parent_title: Exam 3
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_exam3_sol.pdf
-type: OCWFile
 uid: 4782483b-c4ca-2c61-e206-78af9036e5a1
 ---

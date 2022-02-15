@@ -12,6 +12,5 @@ parent_title: Child Development
 parent_type: CourseSection
 resourcetype: Image
 title: lec17_chp.jpg
-type: OCWImage
 uid: 2426bc29-cca6-e9d1-957e-e1b8d1173387
 ---

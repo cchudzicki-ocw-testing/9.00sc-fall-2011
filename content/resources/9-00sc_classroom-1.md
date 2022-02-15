@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 resourcetype: Image
 title: 9-00SC_classroom-1.png
-type: OCWImage
 uid: c22a4ae1-781d-c9f2-d2e8-5cd6df10f911
 ---

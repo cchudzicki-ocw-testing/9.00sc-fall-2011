@@ -5,7 +5,6 @@ parent_title: Learning
 parent_type: CourseSection
 parent_uid: ac69f1eb-8793-b39a-98cb-15527df3770a
 title: 'Removed Clips for Video Lecture 9: Learning'
-type: CourseSection
 uid: 24cb885c-d840-eef3-74aa-83552e6e1dc0
 ---
 

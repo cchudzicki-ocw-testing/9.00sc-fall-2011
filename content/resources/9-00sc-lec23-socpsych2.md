@@ -12,6 +12,5 @@ parent_title: Social Psychology II
 parent_type: CourseSection
 resourcetype: Image
 title: 9.00sc-lec23-socpsych2.jpg
-type: OCWImage
 uid: 1ee50927-2afd-7461-39f7-b92fe0875758
 ---

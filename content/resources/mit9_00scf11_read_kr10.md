@@ -8,6 +8,5 @@ parent_title: Stress
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr10.pdf
-type: OCWFile
 uid: fdc05826-e602-d432-7164-eaaf14129f11
 ---

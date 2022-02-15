@@ -5,7 +5,6 @@ parent_title: 'Memory II: Amnesia and Memory Systems'
 parent_type: CourseSection
 parent_uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 title: 'Removed Clips for Video Lecture 11: Memory II'
-type: CourseSection
 uid: 3462ed7e-8d19-336b-4255-27ae0b64a9c7
 ---
 

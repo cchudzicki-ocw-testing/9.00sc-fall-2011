@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: CourseSection
 parent_uid: b4984c35-7427-1ba3-965f-29e67252d227
 title: Maintaining Currency in a Rapidly Evolving Field
-type: CourseSection
 uid: 02f75232-aa93-e1f2-dc8e-fe8ae23cd7fc
 ---
 

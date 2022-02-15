@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Language
-type: CourseSection
 uid: 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf
 ---
 

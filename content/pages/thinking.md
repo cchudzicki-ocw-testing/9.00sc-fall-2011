@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Thinking
-type: CourseSection
 uid: 13877f0d-e096-cd97-097b-21b89a257f99
 ---
 

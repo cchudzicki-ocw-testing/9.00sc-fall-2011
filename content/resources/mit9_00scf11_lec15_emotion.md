@@ -8,6 +8,5 @@ parent_title: Emotion & Motivation
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec15_Emotion.pdf
-type: OCWFile
 uid: c28dae58-ca9b-a42e-dc6f-eeceda51feae
 ---

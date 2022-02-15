@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Psychopathology II
-type: CourseSection
 uid: efd8e956-049b-f53f-d560-dda29527618d
 ---
 

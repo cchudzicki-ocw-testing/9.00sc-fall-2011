@@ -9,6 +9,5 @@ parent_title: Vision I
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr3.pdf
-type: OCWFile
 uid: 1fad7206-9961-bd95-7888-249ee39494d2
 ---

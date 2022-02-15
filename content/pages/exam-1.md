@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Exam 1
-type: CourseSection
 uid: 2a1bb179-e346-dcc5-f5ed-9fcce0c33d1a
 ---
 

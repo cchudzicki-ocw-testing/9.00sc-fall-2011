@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Science & Research
-type: CourseSection
 uid: c4fbf121-480b-0561-6896-19683bc576cf
 ---
 

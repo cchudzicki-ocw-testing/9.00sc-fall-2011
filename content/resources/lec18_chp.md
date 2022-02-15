@@ -12,6 +12,5 @@ parent_title: Adult Development
 parent_type: CourseSection
 resourcetype: Image
 title: lec18_chp.jpg
-type: OCWImage
 uid: f8d6fd68-5d38-738f-0095-fad297a7d8b0
 ---

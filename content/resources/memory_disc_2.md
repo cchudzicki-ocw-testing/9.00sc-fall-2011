@@ -8,6 +8,5 @@ parent_title: 'Discussion: Memory'
 parent_type: CourseSection
 resourcetype: Other
 title: memory_disc_2.mp3
-type: OCWFile
 uid: 78eb6844-c285-f61a-92d8-ca230ed5bbf7
 ---

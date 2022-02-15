@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Conclusions: Evolutionary Psychology, Happiness'
-type: CourseSection
 uid: 28acc476-566c-2161-f7cb-e0af48ee5d80
 ---
 

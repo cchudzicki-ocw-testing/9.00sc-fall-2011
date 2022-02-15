@@ -12,6 +12,5 @@ parent_title: Language
 parent_type: CourseSection
 resourcetype: Image
 title: lec12_chp.jpg
-type: OCWImage
 uid: 532d1830-ca3a-6920-014d-af3d349628df
 ---

@@ -12,6 +12,5 @@ parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection
 resourcetype: Image
 title: lec14disc_Fig2b.jpg
-type: OCWImage
 uid: 7b054ac9-88f9-f164-1d04-b1d63f4c291c
 ---

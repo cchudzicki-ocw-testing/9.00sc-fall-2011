@@ -5,7 +5,6 @@ parent_title: Personality
 parent_type: CourseSection
 parent_uid: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
 title: 'Discussion: Personality'
-type: CourseSection
 uid: 14f3a80a-3abe-0897-f998-844e35ba544f
 ---
 

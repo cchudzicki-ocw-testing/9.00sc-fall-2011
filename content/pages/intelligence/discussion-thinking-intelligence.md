@@ -5,7 +5,6 @@ parent_title: Intelligence
 parent_type: CourseSection
 parent_uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 title: 'Discussion: Thinking & Intelligence'
-type: CourseSection
 uid: 05a68009-c3c6-23d2-a788-f8858b6ebf30
 ---
 

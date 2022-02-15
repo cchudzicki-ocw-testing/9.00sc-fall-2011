@@ -12,6 +12,5 @@ parent_title: 'Discussion: Vision'
 parent_type: CourseSection
 resourcetype: Image
 title: Configural2.jpg
-type: OCWImage
 uid: 8068a14a-b2ab-4513-5718-b3451c50b594
 ---

@@ -12,6 +12,5 @@ parent_title: Psychopathology II
 parent_type: CourseSection
 resourcetype: Image
 title: lec21_chp.jpg
-type: OCWImage
 uid: b10f6921-06c4-a652-3cfc-d21f56dce29b
 ---

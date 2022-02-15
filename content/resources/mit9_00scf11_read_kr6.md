@@ -9,6 +9,5 @@ parent_title: Language
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr6.pdf
-type: OCWFile
 uid: ec89945b-5f56-6b6f-45ca-f926f53b1343
 ---

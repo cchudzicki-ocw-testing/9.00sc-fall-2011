@@ -12,6 +12,5 @@ parent_title: 'Discussion: Emotion'
 parent_type: CourseSection
 resourcetype: Image
 title: diss_img.jpg
-type: OCWImage
 uid: 2559fe30-0989-3b5e-d70e-8c0290fb6cc9
 ---

@@ -9,6 +9,5 @@ parent_title: Psychopathology II
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_read_kr12.pdf
-type: OCWFile
 uid: 20365c6d-91a9-c142-362e-31bf28a8d7ea
 ---

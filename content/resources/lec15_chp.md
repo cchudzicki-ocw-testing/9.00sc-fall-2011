@@ -12,6 +12,5 @@ parent_title: Emotion & Motivation
 parent_type: CourseSection
 resourcetype: Image
 title: lec15_chp.jpg
-type: OCWImage
 uid: 188e6abc-51a9-645f-def1-4a938edc4308
 ---

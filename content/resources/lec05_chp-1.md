@@ -12,6 +12,5 @@ parent_title: Vision II
 parent_type: CourseSection
 resourcetype: Image
 title: lec05_chp.jpg
-type: OCWImage
 uid: ec5cad29-af78-a15d-3eb0-feb5c097a980
 ---

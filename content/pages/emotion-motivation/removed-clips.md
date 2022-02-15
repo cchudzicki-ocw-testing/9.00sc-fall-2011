@@ -5,7 +5,6 @@ parent_title: Emotion & Motivation
 parent_type: CourseSection
 parent_uid: b4449121-7bca-c751-42a3-a4cbf60a35fa
 title: 'Removed Clips for Video Lecture 15: Emotion & Motivation'
-type: CourseSection
 uid: e5e0f752-c915-574a-901a-55e9ab3221b8
 ---
 

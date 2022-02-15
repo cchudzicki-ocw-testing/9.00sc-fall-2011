@@ -12,6 +12,5 @@ parent_title: 'Brain I: Structure and Functions'
 parent_type: CourseSection
 resourcetype: Image
 title: lec03_chp.jpg
-type: OCWImage
 uid: 9091d8f6-d75c-28ff-9b3a-aba1544099c4
 ---

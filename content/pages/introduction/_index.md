@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Introduction
-type: CourseSection
 uid: c5c3533b-2688-5392-8ef7-cf5bea62d6a4
 ---
 

@@ -8,6 +8,5 @@ parent_title: Social Psychology II
 parent_type: CourseSection
 resourcetype: Document
 title: MIT9_00SCF11_lec23_socpsy2.pdf
-type: OCWFile
 uid: 17bb1e44-2ad6-98a1-0e61-3e571624698d
 ---

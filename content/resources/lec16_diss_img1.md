@@ -12,6 +12,5 @@ parent_title: 'Discussion: Personality'
 parent_type: CourseSection
 resourcetype: Image
 title: lec16_diss_img1.jpg
-type: OCWImage
 uid: c6993c1e-05df-0285-b953-aaea6b43e102
 ---
