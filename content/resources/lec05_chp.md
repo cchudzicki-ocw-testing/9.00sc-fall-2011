@@ -10,6 +10,7 @@ image_metadata:
     nerves, extended through a horizontal section of brain depicting LGN, optic radiation,
     and primary visual cortex.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Vision I
 parent_type: CourseSection
 resourcetype: Image

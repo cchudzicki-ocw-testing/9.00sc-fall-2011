@@ -4,6 +4,7 @@ description: This resource contains information related to introduction to psych
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/568e0d32a2401684b5daca281261f210_MIT9_00SCF11_lec01.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Introduction
 parent_type: CourseSection
 resourcetype: Document

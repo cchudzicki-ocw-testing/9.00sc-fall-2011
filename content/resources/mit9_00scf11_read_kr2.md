@@ -5,6 +5,7 @@ description: 'This resource contains information related to the biology of mind 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/0b4239da8941ad63b9964edbe5563106_MIT9_00SCF11_read_kr2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Brain I: Structure and Functions'
 parent_type: CourseSection
 resourcetype: Document

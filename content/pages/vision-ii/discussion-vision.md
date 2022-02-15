@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Vision II
 parent_type: CourseSection
 parent_uid: 1a9cef0b-4270-5f26-8826-24e84aceb1db

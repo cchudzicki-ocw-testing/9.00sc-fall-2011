@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Adult Development
 parent_type: CourseSection
 parent_uid: 16d028ce-a283-f227-fed3-766ed19d3957

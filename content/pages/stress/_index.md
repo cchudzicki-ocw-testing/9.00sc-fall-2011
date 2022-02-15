@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: Stress
 uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 ---

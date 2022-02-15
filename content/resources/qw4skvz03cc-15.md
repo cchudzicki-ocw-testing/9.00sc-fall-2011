@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/a33966caa3c02c8e57f19c4a1d20949d_Qw4SkvZ03cc.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: a33966ca-a3c0-2c8e-57f1-9c4a1d20949d

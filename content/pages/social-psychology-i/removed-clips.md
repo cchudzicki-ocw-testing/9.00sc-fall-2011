@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Social Psychology I
 parent_type: CourseSection
 parent_uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7

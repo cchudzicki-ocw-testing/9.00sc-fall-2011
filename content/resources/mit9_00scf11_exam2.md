@@ -4,6 +4,7 @@ description: This resource contains problem set related to exam 1 problems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/1cb6b9c6044bbc45708bac6ef370971a_MIT9_00SCF11_exam2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Exam 2
 parent_type: CourseSection
 resourcetype: Document

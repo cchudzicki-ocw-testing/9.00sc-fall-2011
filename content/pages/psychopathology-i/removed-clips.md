@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Psychopathology I
 parent_type: CourseSection
 parent_uid: 3d51e6ac-e4c7-aca1-640b-d0dc09600b04

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram of two L shapes, one rotated just a few degrees from the other.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection
 resourcetype: Image

@@ -4,6 +4,7 @@ description: This is a MP3 file for thinking and intelligence.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/a672bbc6aedf45a274e727d3f7442dad_thinking_disc_1.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection
 resourcetype: Other

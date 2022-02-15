@@ -5,6 +5,7 @@ description: This resource contains information related to study outline for K&R
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/346b32b91187cd488571d14bfc942eab_MIT9_00SCF11_read_kr7.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Emotion & Motivation
 parent_type: CourseSection
 resourcetype: Document

@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: The course professor sits at a table smiling next to a model of the brain.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: CourseSection
 resourcetype: Image

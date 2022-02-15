@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Removed Clips for Video Lecture 1: Introduction'
 parent_type: CourseSection
 resourcetype: Image

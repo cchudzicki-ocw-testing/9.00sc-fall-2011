@@ -4,6 +4,7 @@ description: This resource contains information related to science & research.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/5ff7eb6785f0575799a65af146ea17d2_MIT9_00SCF11_lec02_scires.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Science & Research
 parent_type: CourseSection
 resourcetype: Document

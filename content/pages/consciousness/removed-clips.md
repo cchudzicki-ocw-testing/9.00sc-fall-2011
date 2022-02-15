@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Consciousness
 parent_type: CourseSection
 parent_uid: 504a0556-a3d6-731e-b23a-dd60493cf4d4

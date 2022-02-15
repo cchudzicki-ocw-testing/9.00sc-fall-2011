@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Emotion & Motivation
 parent_type: CourseSection
 parent_uid: b4449121-7bca-c751-42a3-a4cbf60a35fa

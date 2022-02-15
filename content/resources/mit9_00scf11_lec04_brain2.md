@@ -4,6 +4,7 @@ description: This resource contains information related to brain II.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/e6fd1fa0b4e0a5290f3a1aeb3ccb0f43_MIT9_00SCF11_lec04_brain2.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Brain II: Methods of Research'
 parent_type: CourseSection
 resourcetype: Document

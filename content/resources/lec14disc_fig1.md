@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Diagram with two pairs of 3D block patterns in different rotations
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Discussion: Thinking & Intelligence'
 parent_type: CourseSection
 resourcetype: Image

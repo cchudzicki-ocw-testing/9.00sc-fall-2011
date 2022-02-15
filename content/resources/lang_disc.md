@@ -4,6 +4,7 @@ description: This resource is a MP3 file for language.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/d5adcb19ef26a39e2de7c3a6ec704258_lang_disc.mp3
 file_type: audio/mpeg
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Discussion: Language'
 parent_type: CourseSection
 resourcetype: Other
