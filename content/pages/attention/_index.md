@@ -6,7 +6,7 @@ title: Attention
 uid: ddb63dde-65ae-0e9b-a26c-599b321fc842
 ---
 
-« [Previous]({{< baseurl >}}/pages/vision-ii) | [Next]({{< baseurl >}}/pages/consciousness) »
+« {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" >}} | {{< resource_link 504a0556-a3d6-731e-b23a-dd60493cf4d4 "Next" >}} »
 
 Session Overview
 ----------------
@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of one green apple in a pile of red apples.]({{< resource_file b408740e-62d5-e294-83a7-1e8429214e2e >}})
+{{< resource b408740e-62d5-e294-83a7-1e8429214e2e >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,33 +41,33 @@ Read the following before watching the lecture video.
 
 *   **One** of the following textbook selections:
     *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
-        *   [Study outline for K&R Chapter 3 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr3)
+        *   {{< resource_link 1fad7206-9961-bd95-7888-249ee39494d2 "Study outline for K&R Chapter 3 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 4, "Sensing and Perceiving"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 7: Attention]({{< baseurl >}}/resources/lecture-7-attention)
+> *   {{< resource_link fb353583-e1ba-09ee-438d-e9fbc4b98e6b "Lecture 7: Attention" >}}
 > 
 > ### View by Chapter
 > 
-> *   [What Do We Mean by "Attention"?]({{< baseurl >}}/resources/what-do-we-mean-by-attention)
-> *   [Demonstrations of the Limits of Attention]({{< baseurl >}}/resources/demonstrations-of-the-limits-of-attention)
-> *   [Hypnosis and the Stroop Effect]({{< baseurl >}}/resources/hypnosis-and-the-stroop-effect)
-> *   [Visual Search and Attentional Blink]({{< baseurl >}}/resources/visual-search-and-attentional-blink)
-> *   [Object Tracking and Improving Attention]({{< baseurl >}}/resources/object-tracking-and-improving-attention)
-> *   [Subliminal Perception]({{< baseurl >}}/resources/subliminal-perception)
+> *   {{< resource_link 961f9a50-68c4-73ab-a118-0cb48ab12b20 "What Do We Mean by \"Attention\"?" >}}
+> *   {{< resource_link fdc1835e-6526-ffe5-6634-f109f817011a "Demonstrations of the Limits of Attention" >}}
+> *   {{< resource_link b44c7e11-aeb2-62ed-bb86-d2c2b60f035f "Hypnosis and the Stroop Effect" >}}
+> *   {{< resource_link bb3aa48b-2d5e-6ac3-e55d-c29260b94ebb "Visual Search and Attentional Blink" >}}
+> *   {{< resource_link 0a5d284b-b21d-ec48-0b8c-2d3fec8fc303 "Object Tracking and Improving Attention" >}}
+> *   {{< resource_link 5e0aad40-ce16-a25c-a8b2-e8a04084587a "Subliminal Perception" >}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/attention/removed-clips)
-> *   [Lecture Slides (PDF)]({{< baseurl >}}/resources/mit9_00scf11_lec07_attn)
+> *   {{< resource_link 124ac5c1-a2d2-3e62-425c-1b6dd9fc2931 "Removed Clips" >}}
+> *   {{< resource_link a4eb1079-2260-55a8-b05f-b1ce56f5d397 "Lecture Slides (PDF)" >}}
 
 Discussion: Attention
 ---------------------
 
-Today we're also going to talk about attention. How we engage with the world, but only a small part of it at a time. Why we can't engage with the whole thing, and what it would be like to engage with the whole thing. Limits on our attention: why we can't perceive everything at once.... [Read more »]({{< baseurl >}}/pages/attention/discussion-attention)
+Today we're also going to talk about attention. How we engage with the world, but only a small part of it at a time. Why we can't engage with the whole thing, and what it would be like to engage with the whole thing. Limits on our attention: why we can't perceive everything at once.... {{< resource_link 69560261-47e9-87b2-11c7-d60818b3adcf "Read more »" >}}
 
 Check Yourself
 --------------
@@ -134,4 +134,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/vision-ii) | [Next]({{< baseurl >}}/pages/consciousness) »
+« {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" >}} | {{< resource_link 504a0556-a3d6-731e-b23a-dd60493cf4d4 "Next" >}} »

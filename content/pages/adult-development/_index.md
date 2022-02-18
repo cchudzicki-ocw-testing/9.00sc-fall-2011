@@ -6,7 +6,7 @@ title: Adult Development
 uid: 16d028ce-a283-f227-fed3-766ed19d3957
 ---
 
-« [Previous]({{< baseurl >}}/pages/child-development) | [Next]({{< baseurl >}}/pages/stress) »
+« {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" >}} | {{< resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Next" >}} »
 
 Session Overview
 ----------------
@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A photo of a woman, barefoot, on a swing.]({{< resource_file f8d6fd68-5d38-738f-0095-fad297a7d8b0 >}})
+{{< resource f8d6fd68-5d38-738f-0095-fad297a7d8b0 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -41,36 +41,36 @@ Read the following before watching the lecture video.
 
 *   Finish the chapter you started for the previous session:
     *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 9, "Psychology Over the Life Span: Growing Up, Growing Older, Growing Wiser"
-        *   [Study outline for K&R Chapter 9 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr9)
+        *   {{< resource_link 3d126a0f-54a6-443c-15ac-0677f614aeee "Study outline for K&R Chapter 9 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 6 "Growing and Developing"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 18: Adult Development]({{< baseurl >}}/resources/lecture-18-adult-development)
+> *   {{< resource_link 6194e48a-0070-5477-22e3-d50781e9b075 "Lecture 18: Adult Development" >}}
 > 
 > ### View by Chapter
 > 
-> *   [Stages of Development]({{< baseurl >}}/resources/stages-of-development)
-> *   [Neurogenesis]({{< baseurl >}}/resources/neurogenesis)
-> *   [Brain Development: Cell Migration, Synaptic Formation, and Myelination]({{< baseurl >}}/resources/brain-development-cell-migration-synaptic-formation-and-myelination)
+> *   {{< resource_link b407dc20-c28b-d1c6-a27a-ea15a36d9e8d "Stages of Development" >}}
+> *   {{< resource_link 9614accb-9f23-da73-f108-cb5ae640cd8a "Neurogenesis" >}}
+> *   {{< resource_link 8b2c0bdb-54c5-65ec-f308-4aabaa924444 "Brain Development: Cell Migration, Synaptic Formation, and Myelination" >}}
 > *   23231751"goodmemoriesofbadeventsininfancy"73667432
-> *   [How Development is Studied]({{< baseurl >}}/resources/how-development-is-studied)
-> *   [Cognitive Loss]({{< baseurl >}}/resources/cognitive-loss)
-> *   [Attitudes, Emotions, and Aging]({{< baseurl >}}/resources/attitudes-emotions-and-aging)
-> *   [Dopamine and Reward Systems]({{< baseurl >}}/resources/dopamine-and-reward-systems)
-> *   [The Creation of (False) Memories]({{< baseurl >}}/resources/the-creation-of-false-memories)
-> *   [Risk Assessment and Loss Aversion]({{< baseurl >}}/resources/risk-assessment-and-loss-aversion)
+> *   {{< resource_link 55c8ed58-2983-fbcd-11a8-986de0ea4f9c "How Development is Studied" >}}
+> *   {{< resource_link bbca7498-1899-7fe1-3082-fb380db75a42 "Cognitive Loss" >}}
+> *   {{< resource_link c927bb8a-9634-32cd-018c-c36bc8306788 "Attitudes, Emotions, and Aging" >}}
+> *   {{< resource_link 83d0b506-bffa-ab19-9855-ba722285a4e6 "Dopamine and Reward Systems" >}}
+> *   {{< resource_link c5f2adde-9082-48c2-34d0-7f1e818c3747 "The Creation of (False) Memories" >}}
+> *   {{< resource_link a319a7ee-1c9a-2b4c-0913-24e67fe52815 "Risk Assessment and Loss Aversion" >}}
 > 
 > ### Video Resources
 > 
-> *   [Lecture Slides (PDF - 4.5MB)]({{< baseurl >}}/resources/mit9_00scf11_lec18_addev)
+> *   {{< resource_link bc490b43-1cb6-de0f-2a86-0db277718f38 "Lecture Slides (PDF - 4.5MB)" >}}
 
 Discussion: Development
 -----------------------
 
-Adulthood and aging, including changes in the body, in perception, and in cognition; and social and emotional development across the lifespan… [Read more »]({{< baseurl >}}/pages/adult-development/discussion-development)
+Adulthood and aging, including changes in the body, in perception, and in cognition; and social and emotional development across the lifespan… {{< resource_link 37308ab8-c07c-99c4-b518-1a3374f68ecb "Read more »" >}}
 
 Further Study
 -------------
@@ -132,4 +132,4 @@ Practice test questions, flashcards, and media for a related textbook by Kosslyn
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/child-development) | [Next]({{< baseurl >}}/pages/stress) »
+« {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" >}} | {{< resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Next" >}} »

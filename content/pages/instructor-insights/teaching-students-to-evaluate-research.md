@@ -18,7 +18,7 @@ Prof. Gabrieli presents his evidence-based approach to teaching psychology and h
 Showing the Scientific Rigor of Psychology
 ------------------------------------------
 
-![Lecture slide entitled, &ldquoWhat makes something science?&rdquo with details outlining aspects of the scientific method.]({{< resource_file 88f66be3-6d18-bc9e-4ca3-164a5c8e6ac7 >}})
+{{< resource 88f66be3-6d18-bc9e-4ca3-164a5c8e6ac7 >}}
 
 In this slide from his lecture on science and research, Gabrieli presents how scientific psychology differs from common sense. (Image courtesy of John Gabrieli.)
 

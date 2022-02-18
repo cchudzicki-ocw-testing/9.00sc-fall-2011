@@ -9,12 +9,12 @@ title: 'Discussion: Psychopathology'
 uid: db9d439e-16c2-6213-258d-67445f064505
 ---
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii)
+« {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" >}}
 
 Session Overview
 ----------------
 
-This discussion session complements the lecture sessions [Psychopathology I]({{< baseurl >}}/pages/psychopathology-i) and [Psychopathology II]({{< baseurl >}}/pages/psychopathology-ii).
+This discussion session complements the lecture sessions {{< resource_link 3d51e6ac-e4c7-aca1-640b-d0dc09600b04 "Psychopathology I" >}} and {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Psychopathology II" >}}.
 
 Discussion
 ----------
@@ -64,4 +64,4 @@ Another is something called running amok, which is actually a phrase that's ente
 
 Can you think of other examples? How would you decide whether a disorder is culturally bound? Should the DSM label them as such?
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii)
+« {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" >}}

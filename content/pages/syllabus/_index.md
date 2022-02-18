@@ -99,7 +99,7 @@ Videos of the twice-weekly lectures are provided.  For your convenience, each l
 
 ### Discussion Sections
 
-At MIT, the twice-weekly lectures are complemented by a weekly small group discussion section led by a teaching assistant. We present selected material from these discussions on about half of the lecture pages, starting with [Discussion: Brain]({{< baseurl >}}/pages/brain-ii/discussion-brain). This content includes transcripts of short talks by TA Tyler Perrachione, additional Check Yourself quiz content, and bigger Think About questions to ponder and discuss with your friends.
+At MIT, the twice-weekly lectures are complemented by a weekly small group discussion section led by a teaching assistant. We present selected material from these discussions on about half of the lecture pages, starting with {{< resource_link ff6b4a3e-07ac-3e8b-b88b-bbf06269fda2 "Discussion: Brain" >}}. This content includes transcripts of short talks by TA Tyler Perrachione, additional Check Yourself quiz content, and bigger Think About questions to ponder and discuss with your friends.
 
 ### Exams
 
@@ -109,11 +109,11 @@ Each exam covers about a third of the course material; the exams are _not_ cumul
 
 At MIT, enrolled students are given two substantial writing assignments during the semester, plus an optional Extra Credit assignment. Each is an original analysis of a few scientific source readings on a controversial topic in psychology.
 
-[_Writing Assignment 1_]({{< baseurl >}}/pages/vision-ii/writing-assignment-1): Are studies of cognitive and emotional developments in adolescents useful for setting public policy guidelines, such as juvenile access to abortion and the juvenile death penalty?
+{{< resource_link f3463455-6b38-505f-cc40-71a3b43caa1b "_Writing Assignment 1_" >}}: Are studies of cognitive and emotional developments in adolescents useful for setting public policy guidelines, such as juvenile access to abortion and the juvenile death penalty?
 
-[_Writing Assignment 2_]({{< baseurl >}}/pages/child-development/writing-assignment-2): Are “recovered” memories real memories or false memories?
+{{< resource_link 72174c8c-93bb-ea97-0170-d3fdf0aed22e "_Writing Assignment 2_" >}}: Are “recovered” memories real memories or false memories?
 
-[_Extra Credit Writing Assignment_]({{< baseurl >}}/pages/psychopathology-ii/extra-credit-writing-assignment): Is it ethical to use cognition-enhancing drugs?
+{{< resource_link 593fc2b0-b34d-b820-6593-ba531d39e56d "_Extra Credit Writing Assignment_" >}}: Is it ethical to use cognition-enhancing drugs?
 
 For the OCW student, we present these writing assignments as optional, in the spirit of "further study." Due to copyright restrictions, OCW is only able to provide links to some of the source readings.
 

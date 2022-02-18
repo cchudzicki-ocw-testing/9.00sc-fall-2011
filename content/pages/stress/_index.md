@@ -6,7 +6,7 @@ title: Stress
 uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 ---
 
-« [Previous]({{< baseurl >}}/pages/adult-development) | [Next]({{< baseurl >}}/pages/psychopathology-i) »
+« {{< resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Previous" >}} | {{< resource_link 3d51e6ac-e4c7-aca1-640b-d0dc09600b04 "Next" >}} »
 
 Session Overview
 ----------------
@@ -41,7 +41,7 @@ Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
     *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 10, "Stress, Health, and Coping : Dealing With Life"
-        *   [Study outline for K&R Chapter 10 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr10)
+        *   {{< resource_link fdc05826-e602-d432-7164-eaaf14129f11 "Study outline for K&R Chapter 10 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Section 10.2 in Chapter 10, "Emotion and Motivations"
 
 ### Lecture Videos
@@ -52,7 +52,7 @@ Read the following before watching the lecture video.
 > 
 > ### View by Chapter
 > 
-> *   [Concepts of Stress]({{< baseurl >}}/resources/concepts-of-stress)
+> *   {{< resource_link a412bc98-2267-d790-5e3e-80177ab18559 "Concepts of Stress" >}}
 > *   [Physical Stress Mechanism and Its Effects]({{< baseurl >}}/resources/physical-stress-mechanism-and-its-effects)
 > *   [Psychological Modifiers of the Stress Response]({{< baseurl >}}/resources/psychological-modifiers-of-the-stress-response)
 > *   [Embodied Cognition]({{< baseurl >}}/resources/embodied-cognition)
@@ -60,12 +60,12 @@ Read the following before watching the lecture video.
 > 
 > ### Video Resources
 > 
-> *   [Lecture Slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit9_00scf11_lec19_stress)
+> *   {{< resource_link 2770e445-a477-4d40-b46b-e241a6909f14 "Lecture Slides (PDF - 1.8MB)" >}}
 
 Discussion: Stress
 ------------------
 
-So, let's talk a little bit about the science of stress, the psychology of stress, and the physiology of stress. What's going on when you say, "I'm stressed out" – what does that mean from a biological and a cognitive perspective?… [Read more »]({{< baseurl >}}/pages/stress/discussion-stress)
+So, let's talk a little bit about the science of stress, the psychology of stress, and the physiology of stress. What's going on when you say, "I'm stressed out" – what does that mean from a biological and a cognitive perspective?… {{< resource_link eb5da804-5a2a-1df9-f243-8af807f2017b "Read more »" >}}
 
 Check Yourself
 --------------
@@ -170,4 +170,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/adult-development) | [Next]({{< baseurl >}}/pages/psychopathology-i) »
+« {{< resource_link 16d028ce-a283-f227-fed3-766ed19d3957 "Previous" >}} | {{< resource_link 3d51e6ac-e4c7-aca1-640b-d0dc09600b04 "Next" >}} »

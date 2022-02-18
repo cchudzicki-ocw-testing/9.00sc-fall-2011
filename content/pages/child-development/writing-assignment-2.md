@@ -9,7 +9,7 @@ title: Writing Assignment 2
 uid: 72174c8c-93bb-ea97-0170-d3fdf0aed22e
 ---
 
-« [Previous]({{< baseurl >}}/pages/child-development)
+« {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" >}}
 
 **Topic:** Admission of a "recovered" memory in a court case.
 
@@ -36,4 +36,4 @@ Geraerts, E., et al. "The Reality of Recovered Memories." _Psychological Science
 
 Geraerts, E., et al. "[Cognitive Mechanisms Underlying Recovered-Memory Experiences of Childhood Sexual Abuse](http://dx.doi.org/10.1111/j.1467-9280.2008.02247.x)." _Psychological Science_ 20, no. 1 (2009): 92–8.
 
-« [Previous]({{< baseurl >}}/pages/child-development)
+« {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" >}}

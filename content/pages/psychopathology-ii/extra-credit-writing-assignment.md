@@ -9,7 +9,7 @@ title: '"Extra Credit" Writing Assignment'
 uid: 593fc2b0-b34d-b820-6593-ba531d39e56d
 ---
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii)
+« {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" >}}
 
 **Topic:** Is it ethical to use cognition-enhancing drugs?
 
@@ -18,7 +18,7 @@ Use any of the sources listed below in support of your thesis. Provide critical 
 Sources
 -------
 
-The President's Council on Bioethics. "'Beyond Therapy': General Reflections." Chapter Six in _Beyond Therapy: Biotechnology and the Pursuit of Happiness_. Washington, D.C., October 2003. ([PDF]({{< baseurl >}}/resources/mit9_00scf11_wax_bioethics))
+The President's Council on Bioethics. "'Beyond Therapy': General Reflections." Chapter Six in _Beyond Therapy: Biotechnology and the Pursuit of Happiness_. Washington, D.C., October 2003. ({{< resource_link 1dba9754-1074-d58c-452f-1cb091342198 "PDF" >}})
 
 Editorial: "[Enhancing, not Cheating](http://dx.doi.org/10.1038/450320a)." _Nature_ 450 (2007): 320.
 
@@ -36,4 +36,4 @@ Seven letters published in _Nature_ 457 (2009): 532–3, in response to Greely e
 
 Szalavitz, M. "[Popping Smart Pills: The Case for Cognitive Enhancement](http://content.time.com/time/health/article/0,8599,1869435,00.html)." _Time Magazine_, January 6, 2009.
 
-« [Previous]({{< baseurl >}}/pages/psychopathology-ii)
+« {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" >}}

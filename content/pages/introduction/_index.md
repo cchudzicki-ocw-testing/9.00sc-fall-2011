@@ -6,7 +6,7 @@ title: Introduction
 uid: c5c3533b-2688-5392-8ef7-cf5bea62d6a4
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-tas) | [Next]({{< baseurl >}}/pages/science-research) »
+« {{< resource_link ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9 "Previous" >}} | {{< resource_link c4fbf121-480b-0561-6896-19683bc576cf "Next" >}} »
 
 Session Overview
 ----------------
@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![A white grid pattern on a black background, with the illusion of black dots flashing at the intersections of the white grid lines.]({{< resource_file 8b5e8f78-970f-3f7c-1f2c-f23822fbb08b >}})
+{{< resource 8b5e8f78-970f-3f7c-1f2c-f23822fbb08b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,27 +42,27 @@ Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
     *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 1, "Introduction to the Science of Psychology: History and Research Methods"
-        *   [Study outline for K&R Chapter 1 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr1)
+        *   {{< resource_link e37ac097-cb76-f267-10cd-c5ab47efa47a "Study outline for K&R Chapter 1 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 1, "Introducing Psychology"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 1: Introduction]({{< baseurl >}}/resources/lecture-1-introduction)
+> *   {{< resource_link 52edad68-e8f5-7996-c3b0-4d9942072747 "Lecture 1: Introduction" >}}
 > 
 > ### View by Chapter
 > 
-> *   [Goals of the Course]({{< baseurl >}}/resources/goals-of-the-course)
-> *   [How Our Minds Make Our Worlds: Vision, Memory, Attention]({{< baseurl >}}/resources/how-our-minds-make-our-worlds-vision-memory-attention)
-> *   [How Our Minds Make our Worlds: Hearing, Learning, Memory]({{< baseurl >}}/resources/how-our-minds-make-our-worlds-hearing-learning-memory)
-> *   [The Power and Peril of Automaticity]({{< baseurl >}}/resources/the-power-and-peril-of-automaticity)
-> *   [How We Feel vs. How We Act]({{< baseurl >}}/resources/how-we-feel-vs)
+> *   {{< resource_link 99668c88-08ae-0a8f-01e8-694a009f477b "Goals of the Course" >}}
+> *   {{< resource_link 88fa30f0-72d8-bedf-1135-d13d7b47a46d "How Our Minds Make Our Worlds: Vision, Memory, Attention" >}}
+> *   {{< resource_link 222b1190-d549-70c2-c264-7632c1fec48c "How Our Minds Make our Worlds: Hearing, Learning, Memory" >}}
+> *   {{< resource_link 524d48ff-c25e-2ca1-da36-7dc874f3b059 "The Power and Peril of Automaticity" >}}
+> *   {{< resource_link aeb22e30-0e2a-d8b5-e31e-3d1701c69ad0 "How We Feel vs. How We Act" >}}
 > 
 > ### Video Resources
 > 
-> *   [Removed Clips]({{< baseurl >}}/pages/introduction/removed-clips)
-> *   [Lecture Slides (PDF)]({{< baseurl >}}/resources/mit9_00scf11_lec01)
+> *   {{< resource_link ef50431b-7ada-1984-07fc-7bb448203a5e "Removed Clips" >}}
+> *   {{< resource_link 568e0d32-a240-1684-b5da-ca281261f210 "Lecture Slides (PDF)" >}}
 
 Further Study
 -------------
@@ -148,4 +148,4 @@ Practice test questions, flashcards, and media for a related textbook.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/syllabus/meet-the-tas) | [Next]({{< baseurl >}}/pages/science-research) »
+« {{< resource_link ad8e2a55-5c0f-805b-1c0f-5cda0d5fc9b9 "Previous" >}} | {{< resource_link c4fbf121-480b-0561-6896-19683bc576cf "Next" >}} »

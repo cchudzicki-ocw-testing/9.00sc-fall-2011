@@ -6,7 +6,7 @@ title: Science & Research
 uid: c4fbf121-480b-0561-6896-19683bc576cf
 ---
 
-« [Previous]({{< baseurl >}}/pages/introduction) | [Next]({{< baseurl >}}/pages/brain-i) »
+« {{< resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" >}} | {{< resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Next" >}} »
 
 Session Overview
 ----------------
@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Photo of broken windows.]({{< resource_file 944e8f93-3a52-055b-5fe3-a6506ee322d9 >}})
+{{< resource 944e8f93-3a52-055b-5fe3-a6506ee322d9 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -43,26 +43,26 @@ Read the following before watching the lecture video.
 *   \[[Sacks]({{< baseurl >}}/pages/syllabus#_Sacks_)\] Chapter 19, "Murder" (pp. 161-165)
 *   **One** of the following textbook chapters:
     *   Finish \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 1, "Introduction to the Science of Psychology: History and Research Methods"
-        *   [Study outline for K&R Chapter 1 (PDF)]({{< baseurl >}}/resources/mit9_00scf11_read_kr1)
+        *   {{< resource_link e37ac097-cb76-f267-10cd-c5ab47efa47a "Study outline for K&R Chapter 1 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 2, "Psychological Science"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 2: Science and Research]({{< baseurl >}}/resources/lecture-2-science-and-research)
+> *   {{< resource_link 8420b65a-b868-a035-3580-c815f85224d5 "Lecture 2: Science and Research" >}}
 > 
 > ### View by Chapter
 > 
-> *   [Psychology and Science]({{< baseurl >}}/resources/psychology-and-science)
-> *   [What Makes Something an Experiment?]({{< baseurl >}}/resources/what-makes-something-an-experiment)
-> *   [Psychology Experiments and the Real World]({{< baseurl >}}/resources/psychology-experiments-and-the-real-world)
-> *   [Little Things Can Influence Behavior]({{< baseurl >}}/resources/little-things-can-influence-behavior)
-> *   [Folk Psychology and Scientific Psychology]({{< baseurl >}}/resources/folk-psychology-and-scientific-psychology)
+> *   {{< resource_link 5d74b609-3f5d-b2c8-3c67-10ba96921a44 "Psychology and Science" >}}
+> *   {{< resource_link d7f5ead1-56dd-fddb-dcb0-50a6f99316e3 "What Makes Something an Experiment?" >}}
+> *   {{< resource_link 23adcde8-4ec8-f0f6-8a53-fb3f716c4aaf "Psychology Experiments and the Real World" >}}
+> *   {{< resource_link e8ba9f1e-3fc9-c426-44b0-d269a94c7169 "Little Things Can Influence Behavior" >}}
+> *   {{< resource_link 99c9af80-b8ae-b2fb-1e93-9adc0fb2314b "Folk Psychology and Scientific Psychology" >}}
 > 
 > ### Video Resources
 > 
-> *   [Lecture Slides (PDF)]({{< baseurl >}}/resources/mit9_00scf11_lec02_scires)
+> *   {{< resource_link 5ff7eb67-85f0-5757-99a6-5af146ea17d2 "Lecture Slides (PDF)" >}}
 
 Check Yourself
 --------------
@@ -180,4 +180,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/introduction) | [Next]({{< baseurl >}}/pages/brain-i) »
+« {{< resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" >}} | {{< resource_link bed1d5fc-a69c-1587-2254-555a74b510d1 "Next" >}} »
