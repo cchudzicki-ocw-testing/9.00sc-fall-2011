@@ -24,17 +24,17 @@ Learn to think critically about psychological evidence and to evaluate its valid
 
 This course helps students understand how humans work, how people tick. It provides a useful foundation for thinking about marketing, economic decision-making, and politics. As an introductory course, it prepares students for further study in fields such as neuroscience, developmental psychology, and social psychology.
 
-{{\< anchor "insights" >}}{{\< /anchor >}}
+{{< anchor "insights" >}}{{< /anchor >}}
 
 ## Instructor Insights
 
 _In the following pages, Prof. John Gabrieli describes various aspects of how he taught \_9.00 Introduction to Psychology_.\_
 
-- \[Structuring a broad survey course\]({{\< baseurl >}}/pages/instructor-insights/structuring-a-broad-survey-course)
-- \[Crafting lectures that inspire and inform\]({{\< baseurl >}}/pages/instructor-insights/crafting-lectures-that-inspire-and-inform)
-- \[Bringing demonstrations into the classroom\]({{\< baseurl >}}/pages/instructor-insights/bringing-demonstrations-into-the-classroom)
-- \[Maintaining currency in a rapidly evolving field\]({{\< baseurl >}}/pages/instructor-insights/maintaining-currency-in-a-rapidly-evolving-field)
-- \[Teaching students to evaluate research\]({{\< baseurl >}}/pages/instructor-insights/teaching-students-to-evaluate-research)
+- [Structuring a broad survey course]({{< baseurl >}}/pages/instructor-insights/structuring-a-broad-survey-course)
+- [Crafting lectures that inspire and inform]({{< baseurl >}}/pages/instructor-insights/crafting-lectures-that-inspire-and-inform)
+- [Bringing demonstrations into the classroom]({{< baseurl >}}/pages/instructor-insights/bringing-demonstrations-into-the-classroom)
+- [Maintaining currency in a rapidly evolving field]({{< baseurl >}}/pages/instructor-insights/maintaining-currency-in-a-rapidly-evolving-field)
+- [Teaching students to evaluate research]({{< baseurl >}}/pages/instructor-insights/teaching-students-to-evaluate-research)
 
 ## Curriculum Information
 
@@ -51,7 +51,7 @@ None
 
 Every Spring
 
-{{\< anchor "assessment" >}}{{\< /anchor >}}
+{{< anchor "assessment" >}}{{< /anchor >}}
 
 ## Assessment
 
@@ -65,13 +65,13 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-!\[On average, about 250 students take this course each year.\]({{\< resource\_file b1ad50ae-73c2-5fa3-64bc-4dda1e765a3d >}})
+{{< resource b1ad50ae-73c2-5fa3-64bc-4dda1e765a3d >}}
 
 ### Breakdown by Year
 
 Primarily freshmen.
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
