@@ -10,7 +10,7 @@ uid: b4984c35-7427-1ba3-965f-29e67252d227
 
 ## Course  Overview
 
-This page focuses on the course 9.00 _Introduction to Psychology_ as it was taught by Prof. John Gabrieli in Spring 2011.
+This page focuses on the course _9.00_ _Introduction to Psychology_ as it was taught by Prof. John Gabrieli in Spring 2011.
 
 _Introduction to Psychology_ is designed to introduce you to the scientific study of human nature. Compared to other psychology courses, it places more emphasis on neuroscience and the scientific methods used to measure and understand the human mind. The course meets twice weekly for lectures that include in-class demonstrations. Topics include the mental and neural bases of perception, emotion, learning, memory, cognition, child development, personality, psychopathology, and social interaction. The class divides into twelve recitation sessions to discuss course topics each week.
 
@@ -28,7 +28,7 @@ This course helps students understand how humans work, how people tick. It provi
 
 ## Instructor Insights
 
-_In the following pages, Prof. John Gabrieli describes various aspects of how he taught \_9.00 Introduction to Psychology_.\_
+_In the following pages, Prof. John Gabrieli describes various aspects of how he taught_ 9.00 Introduction to Psychology.
 
 - {{< resource_link 54378383-2e19-5046-fc73-49997af088ba "Structuring a broad survey course" >}}
 - {{< resource_link 8937ce49-d58f-a613-51a8-58a2a435010c "Crafting lectures that inspire and inform" >}}
