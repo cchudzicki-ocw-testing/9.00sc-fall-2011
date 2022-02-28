@@ -40,7 +40,7 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
         *   {{< resource_link 1fad7206-9961-bd95-7888-249ee39494d2 "Study outline for K&R Chapter 3 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 4 "Sensing and Perceiving"
 

@@ -40,7 +40,7 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 4, "Learning: How Experience Changes Us."
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 4, "Learning: How Experience Changes Us."
         *   {{< resource_link 33a99595-e42e-8173-c805-09553eb52a8c "Study outline for K&R Chapter 4 (PDF)" >}} 
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 7, "Learning"
 

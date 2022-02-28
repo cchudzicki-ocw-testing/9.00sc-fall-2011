@@ -39,9 +39,9 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#_Sacks_)\] Chapter 13, "Yes, Father-Sister" (pp. 116-119)
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" >}}\] Chapter 13, "Yes, Father-Sister" (pp. 116-119)
 *   **One** of the following textbook selections:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Continue reading Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Continue reading Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
         *   {{< resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 8, "Remembering and Judging," and Chapter 9, "Intelligence and Language"
 

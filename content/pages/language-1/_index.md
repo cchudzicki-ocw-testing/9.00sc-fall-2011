@@ -39,9 +39,9 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#Sacks)\] Chapter 9, "The President's Speech" (pp. 80-86)
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#Sacks" >}}\] Chapter 9, "The President's Speech" (pp. 80-86)
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Start Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Start Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
         *   {{< resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 9, "Intelligence and Language"
 

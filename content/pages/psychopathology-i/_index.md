@@ -39,9 +39,9 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#_Sacks_)\] Chapter 10, "Witty Ticcy Ray" (pp. 92–101)
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" >}}\] Chapter 10, "Witty Ticcy Ray" (pp. 92–101)
 *   Begin **one** of these chapters in your chosen textbook:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 11, "Psychological Disorders : More than Everyday Problems"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 11, "Psychological Disorders : More than Everyday Problems"
         *   {{< resource_link b01546d8-1705-597b-cc97-637a4e15bcb8 "Study outline for K&R Chapter 11 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 12, "Defining Psychological Disorders"
 

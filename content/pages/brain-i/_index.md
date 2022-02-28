@@ -39,9 +39,9 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#Sacks)\] Chapter 15 "Reminiscence" (pp. 132-149)
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#Sacks" >}}\] Chapter 15 "Reminiscence" (pp. 132-149)
 *   Begin **one** of these chapters in your chosen textbook:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
         *   {{< resource_link 0b4239da-8941-ad63-b996-4edbe5563106 "Study outline for K&R Chapter 2 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 3, "Brains, Bodies, and Behavior"
 

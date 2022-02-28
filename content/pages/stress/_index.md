@@ -40,7 +40,7 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 10, "Stress, Health, and Coping : Dealing With Life"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 10, "Stress, Health, and Coping : Dealing With Life"
         *   {{< resource_link fdc05826-e602-d432-7164-eaaf14129f11 "Study outline for K&R Chapter 10 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Section 10.2 in Chapter 10, "Emotion and Motivations"
 

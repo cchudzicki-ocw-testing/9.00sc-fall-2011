@@ -40,9 +40,9 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#_Sacks_)\] Chapter 11, "Cupid's Disease" (pp. 102-107)
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" >}}\] Chapter 11, "Cupid's Disease" (pp. 102-107)
 *   Finish the chapter you started for the previous session:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 12, "Treatment: Healing Actions, Healing Words"  
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 12, "Treatment: Healing Actions, Healing Words"  
         *   {{< resource_link 20365c6d-91a9-c142-362e-31bf28a8d7ea "Study outline for K&R Chapter 12 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Finish Chapter 12, "Defining Psychological Disorders," and Chapter 13, "Treating Psychological Disorders."  
          

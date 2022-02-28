@@ -39,8 +39,8 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#_Sacks_)\] Chapters 4 and 8, "The Man Who Fell out of Bed" (pp. 55–58) and "Eyes Right!" (pp. 77–79).
-*   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Finish Chapter 3, "Sensation and Perception: How the World Enters the Mind"
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" >}}\] Chapters 4 and 8, "The Man Who Fell out of Bed" (pp. 55–58) and "Eyes Right!" (pp. 77–79).
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Finish Chapter 3, "Sensation and Perception: How the World Enters the Mind"
     *   {{< resource_link 1fad7206-9961-bd95-7888-249ee39494d2 "Study outline for K&R Chapter 3 (PDF)" >}} 
 
 ### Lecture Videos

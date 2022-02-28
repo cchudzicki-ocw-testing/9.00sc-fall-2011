@@ -40,7 +40,7 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   Finish the chapter you started for the previous session:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 9, "Psychology Over the Life Span: Growing Up, Growing Older, Growing Wiser"
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 9, "Psychology Over the Life Span: Growing Up, Growing Older, Growing Wiser"
         *   {{< resource_link 3d126a0f-54a6-443c-15ac-0677f614aeee "Study outline for K&R Chapter 9 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 6 "Growing and Developing"
 

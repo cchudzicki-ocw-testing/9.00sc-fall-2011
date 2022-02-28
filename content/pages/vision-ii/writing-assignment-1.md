@@ -19,7 +19,7 @@ To begin this assignment, you will read three sources (full citations and abstra
 2.  A criticism of this position by Fischer et al., who have a different perspective on how public policy should take into account emotional and cognitive development in juveniles; and,
 3.  A rebuttal of the Fischer position by Steinberg et al.
 
-Review the writing assignment guidelines given on the [Syllabus]({{< baseurl >}}/pages/syllabus#WA). Your specific goal for Writing Assignment 1 is to analyze the arguments in the three papers, construct a coherent argument about the role of studies of cognitive and emotional development in setting public policy guidelines, and support this argument with specific evidence from the papers. A number of different approaches to this topic can satisfy the requirements of this writing assignment. For example, your thesis might address:
+Review the writing assignment guidelines given on the {{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Syllabus" "#WA" >}}. Your specific goal for Writing Assignment 1 is to analyze the arguments in the three papers, construct a coherent argument about the role of studies of cognitive and emotional development in setting public policy guidelines, and support this argument with specific evidence from the papers. A number of different approaches to this topic can satisfy the requirements of this writing assignment. For example, your thesis might address:
 
 *   In what circumstances can psychological research on cognitive and emotional development be used to set public policy?
 *   When, if ever, should public policy distinguish between cognitive and emotional development and why (or why not)?

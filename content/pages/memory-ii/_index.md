@@ -40,9 +40,9 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[[Sacks]({{< baseurl >}}/pages/syllabus#_Sacks_)\] Chapter 2 "The Lost Mariner" (pp. 23-42)
+*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" >}}\] Chapter 2 "The Lost Mariner" (pp. 23-42)
 *   Finish the chapter you started for the previous session:
-    *   \[[K&R]({{< baseurl >}}/pages/syllabus#_K_R_)\] Chapter 5, "The Biology of Mind and Behavior: The Brain in Action."
+    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 5, "The Biology of Mind and Behavior: The Brain in Action."
         *   {{< resource_link 9e70f608-6eb2-8062-9f7b-d8c53e8fde7b "Study outline for K&R Chapter 5 (PDF)" >}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 8, "Remembering and Judging"
 

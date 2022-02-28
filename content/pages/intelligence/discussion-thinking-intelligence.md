@@ -52,7 +52,7 @@ Mental rotation: So, when you're shown an abstract 3D shape and another abstract
 
 {{< resource 899ed9c1-06f1-ac81-80b2-af45639e1a7e >}}
 
-Figure 1. 3D Shapes for Spatial Rotation Task Test. (Courtesy of Flat World Knowledge. Source: \[[Stangor]({{< baseurl >}}/pages/syllabus#_Stangor_)\])
+Figure 1. 3D Shapes for Spatial Rotation Task Test. (Courtesy of Flat World Knowledge. Source: \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Stangor" "#_Stangor_" >}}\])
 
 Would you measure it out in your mind, like, "Alright, we've got a right angle here, a right angle there, and these things project orthogonally? There's this whatever at the end."
 
