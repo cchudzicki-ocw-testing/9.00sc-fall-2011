@@ -30,11 +30,11 @@ This course helps students understand how humans work, how people tick. It provi
 
 _In the following pages, Prof. John Gabrieli describes various aspects of how he taught_ 9.00 Introduction to Psychology.
 
-- {{< resource_link 54378383-2e19-5046-fc73-49997af088ba "Structuring a broad survey course" >}}
-- {{< resource_link 8937ce49-d58f-a613-51a8-58a2a435010c "Crafting lectures that inspire and inform" >}}
-- {{< resource_link af850264-7197-6cae-0c8d-72f135ef0d30 "Bringing demonstrations into the classroom" >}}
-- {{< resource_link 02f75232-aa93-e1f2-dc8e-fe8ae23cd7fc "Maintaining currency in a rapidly evolving field" >}}
-- {{< resource_link a81fc7d7-a253-4f91-909e-a35a0e30665a "Teaching students to evaluate research" >}}
+- {{% resource_link 54378383-2e19-5046-fc73-49997af088ba "Structuring a broad survey course" %}}
+- {{% resource_link 8937ce49-d58f-a613-51a8-58a2a435010c "Crafting lectures that inspire and inform" %}}
+- {{% resource_link af850264-7197-6cae-0c8d-72f135ef0d30 "Bringing demonstrations into the classroom" %}}
+- {{% resource_link 02f75232-aa93-e1f2-dc8e-fe8ae23cd7fc "Maintaining currency in a rapidly evolving field" %}}
+- {{% resource_link a81fc7d7-a253-4f91-909e-a35a0e30665a "Teaching students to evaluate research" %}}
 
 ## Curriculum Information
 
