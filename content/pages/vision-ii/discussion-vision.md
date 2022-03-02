@@ -9,12 +9,12 @@ title: 'Discussion: Vision'
 uid: efa61a0f-c3f3-31be-4614-e94ca3ee9a1a
 ---
 
-« {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" >}}
+« {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" %}}
 
 Session Overview
 ----------------
 
-How do sensation, perception, and expectation create what we see? This discussion session complements the prior lecture sessions {{< resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Vision 1" >}} and {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Vision 2" >}}.
+How do sensation, perception, and expectation create what we see? This discussion session complements the prior lecture sessions {{% resource_link 6006b7d1-2269-c4a2-b231-88660361c816 "Vision 1" %}} and {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Vision 2" %}}.
 
 Discussion
 ----------
@@ -113,4 +113,4 @@ In each case, the president's face has been copied onto the vice president's hea
 
 We don't see faces in parts, we see them in wholes – this is holistic processing. The illusion works because we expect the guy standing behind Clinton to be Gore, and because cues such as hair and glasses override our processing of the features.
 
-« {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" >}}
+« {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Previous" %}}

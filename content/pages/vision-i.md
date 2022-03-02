@@ -6,7 +6,7 @@ title: Vision I
 uid: 6006b7d1-2269-c4a2-b231-88660361c816
 ---
 
-« {{< resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Previous" >}} | {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Next" >}} »
+« {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Previous" %}} | {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Next" %}} »
 
 Session Overview
 ----------------
@@ -40,29 +40,29 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
-        *   {{< resource_link 1fad7206-9961-bd95-7888-249ee39494d2 "Study outline for K&R Chapter 3 (PDF)" >}}
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 3, "Sensation and Perception: How the World Enters the Mind"
+        *   {{% resource_link 1fad7206-9961-bd95-7888-249ee39494d2 "Study outline for K&R Chapter 3 (PDF)" %}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 4 "Sensing and Perceiving"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   {{< resource_link 7dfed28b-ed08-1055-4649-f4beddb7dcdb "Lecture 5: Vision I" >}}
+> *   {{% resource_link 7dfed28b-ed08-1055-4649-f4beddb7dcdb "Lecture 5: Vision I" %}}
 > 
 > ### View by Chapter
 > 
-> *   {{< resource_link 5f22276f-6e97-74e2-a6a0-319766c0be8f "Introduction to Vision and the Brain" >}}
-> *   {{< resource_link 504e2243-7c86-e5c7-c9f3-bfab14037eb6 "Vision as Interpretation" >}}
-> *   {{< resource_link 4791cc81-bfeb-0ae8-3e2d-30bd3c74c79a "Brightness Constancy and Other Illusions" >}}
-> *   {{< resource_link 16aed300-1e19-0542-9123-490c14c461b3 "The Mechanics of Vision: Pre-Visual Cortex" >}}
-> *   {{< resource_link b2466cc9-0211-495d-b771-f66cbe99542a "The Mechanics of Vision: Visual Cortex" >}}
-> *   {{< resource_link b8336b63-8a15-ef83-45ac-68af0c0685ec "What and Where Systems" >}}
-> *   {{< resource_link 4fab7479-efee-60a1-c1ef-cbe796384b08 "Brain Lesions and the Visual System" >}}
+> *   {{% resource_link 5f22276f-6e97-74e2-a6a0-319766c0be8f "Introduction to Vision and the Brain" %}}
+> *   {{% resource_link 504e2243-7c86-e5c7-c9f3-bfab14037eb6 "Vision as Interpretation" %}}
+> *   {{% resource_link 4791cc81-bfeb-0ae8-3e2d-30bd3c74c79a "Brightness Constancy and Other Illusions" %}}
+> *   {{% resource_link 16aed300-1e19-0542-9123-490c14c461b3 "The Mechanics of Vision: Pre-Visual Cortex" %}}
+> *   {{% resource_link b2466cc9-0211-495d-b771-f66cbe99542a "The Mechanics of Vision: Visual Cortex" %}}
+> *   {{% resource_link b8336b63-8a15-ef83-45ac-68af0c0685ec "What and Where Systems" %}}
+> *   {{% resource_link 4fab7479-efee-60a1-c1ef-cbe796384b08 "Brain Lesions and the Visual System" %}}
 > 
 > ### Video Resources
 > 
-> *   {{< resource_link caa50090-8dc7-fdfe-57e6-1847adf8276e "Lecture Slides (PDF - 3.5MB)" >}}
+> *   {{% resource_link caa50090-8dc7-fdfe-57e6-1847adf8276e "Lecture Slides (PDF - 3.5MB)" %}}
 
 Check Yourself
 --------------
@@ -130,4 +130,4 @@ Practice test questions, flashcards, and media for a related textbook by Kosslyn
 
 {{< tableclose >}}
 
-« {{< resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Previous" >}} | {{< resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Next" >}} »
+« {{% resource_link 6026acd4-95f8-e039-d1e8-11a66efa90b3 "Previous" %}} | {{% resource_link 1a9cef0b-4270-5f26-8826-24e84aceb1db "Next" %}} »

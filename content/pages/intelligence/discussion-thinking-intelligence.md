@@ -9,7 +9,7 @@ title: 'Discussion: Thinking & Intelligence'
 uid: 05a68009-c3c6-23d2-a788-f8858b6ebf30
 ---
 
-« {{< resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Previous" >}}
+« {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Previous" %}}
 
 Session Overview
 ----------------
@@ -22,7 +22,7 @@ Session Overview
 {{< tdopen >}}
 
 
-How do we think? What does it mean to be intelligent or creative? This discussion session complements the prior lecture sessions {{< resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Thinking" >}} and {{< resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Intelligence" >}}.
+How do we think? What does it mean to be intelligent or creative? This discussion session complements the prior lecture sessions {{% resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Thinking" %}} and {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Intelligence" %}}.
 
 
 {{< tdclose >}}
@@ -36,7 +36,7 @@ Demonstration
 
 ### Do We Think in Words or Pictures?
 
-Listen as Tyler poses one of the big questions in early psychology: _do we think in words or pictures_? ({{< resource_link a672bbc6-aedf-45a2-74e7-27d3f7442dad "MP3" >}}) (0:02:40)
+Listen as Tyler poses one of the big questions in early psychology: _do we think in words or pictures_? ({{% resource_link a672bbc6-aedf-45a2-74e7-27d3f7442dad "MP3" %}}) (0:02:40)
 
 _Transcript_: "Thinking...mentally manipulating information. Who said that earlier? That's exactly right.
 
@@ -52,7 +52,7 @@ Mental rotation: So, when you're shown an abstract 3D shape and another abstract
 
 {{< resource 899ed9c1-06f1-ac81-80b2-af45639e1a7e >}}
 
-Figure 1. 3D Shapes for Spatial Rotation Task Test. (Courtesy of Flat World Knowledge. Source: \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Stangor" "#_Stangor_" >}}\])
+Figure 1. 3D Shapes for Spatial Rotation Task Test. (Courtesy of Flat World Knowledge. Source: \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Stangor" "#_Stangor_" %}}\])
 
 Would you measure it out in your mind, like, "Alright, we've got a right angle here, a right angle there, and these things project orthogonally? There's this whatever at the end."
 
@@ -62,7 +62,7 @@ How could we prove, using science, that you're really doing that in your head? W
 
 ### Experimental Evidence for Thinking in Pictures
 
-Listen next as Tyler describes how experiments have shown that people are truly thinking in pictures: ({{< resource_link 5c6a4582-dce0-08b8-a714-408f21413264 "MP3" >}}) (0:01:27)
+Listen next as Tyler describes how experiments have shown that people are truly thinking in pictures: ({{% resource_link 5c6a4582-dce0-08b8-a714-408f21413264 "MP3" %}}) (0:01:27)
 
 _Transcript_: "Let's think about it for a second. If I give you two L-shapes, like this and like this, so they're just a little bit off, and you rotate them to show me that they're the same. On paper, if I give you these two things, these two objects in front of you, how long is it going to take you to show that these two are the same?
 
@@ -109,4 +109,4 @@ People have an idea about what a toy should be because of all the toys they’ve
 
 {{< /div-with-class >}}
 
-« {{< resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Previous" >}}
+« {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Previous" %}}

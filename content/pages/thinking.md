@@ -6,7 +6,7 @@ title: Thinking
 uid: 13877f0d-e096-cd97-097b-21b89a257f99
 ---
 
-« {{< resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" >}} | {{< resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Next" >}} »
+« {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" %}} | {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -39,35 +39,35 @@ Session Activities
 
 Read the following before watching the lecture video.
 
-*   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" >}}\] Chapter 13, "Yes, Father-Sister" (pp. 116-119)
+*   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "Sacks" "#_Sacks_" %}}\] Chapter 13, "Yes, Father-Sister" (pp. 116-119)
 *   **One** of the following textbook selections:
-    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Continue reading Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
-        *   {{< resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" >}}
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Continue reading Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
+        *   {{% resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" %}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 8, "Remembering and Judging," and Chapter 9, "Intelligence and Language"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   {{< resource_link 52d16a28-5ea0-008c-63b1-dd6bdfe5bcb4 "Lecture 13: Thinking" >}}
+> *   {{% resource_link 52d16a28-5ea0-008c-63b1-dd6bdfe5bcb4 "Lecture 13: Thinking" %}}
 > 
 > ### View by Chapter
 > 
-> *   {{< resource_link f24203db-a33e-0de4-8677-aad7fef640d8 "Thinking Traps: Functional Fixedness, Problem Solving, and Creativity" >}}
-> *   {{< resource_link ef87dd57-1b13-e6fb-e56f-ccf86a05c79d "Judgement and Decision Making: Heuristics" >}}
-> *   {{< resource_link 59750a3c-7b1d-c503-d221-073cffd526a1 "Influencing Decisions: Anchoring, Adjustment, and Framing" >}}
-> *   {{< resource_link 7a7b3ded-3309-c78e-739c-e7d64b382f1f "Frontal Lobes and Thinking" >}}
+> *   {{% resource_link f24203db-a33e-0de4-8677-aad7fef640d8 "Thinking Traps: Functional Fixedness, Problem Solving, and Creativity" %}}
+> *   {{% resource_link ef87dd57-1b13-e6fb-e56f-ccf86a05c79d "Judgement and Decision Making: Heuristics" %}}
+> *   {{% resource_link 59750a3c-7b1d-c503-d221-073cffd526a1 "Influencing Decisions: Anchoring, Adjustment, and Framing" %}}
+> *   {{% resource_link 7a7b3ded-3309-c78e-739c-e7d64b382f1f "Frontal Lobes and Thinking" %}}
 > 
 > ### Video Resources
 > 
 > *   Clips removed from lecture video due to copyright restrictions:
 >     *   Two segments, "Math Problems" and "Square Feet?", from _Candid Camera Classics for Introductory Psychology_. DVD/VHS. Candid Camera, Inc., and McGraw Hill. 1993. \[Find in a library via [WorldCat](http://www.worldcat.org/oclc/22542876)\]
-> *   {{< resource_link 7da18b22-e745-677e-ae11-5a50e3a89179 "Lecture Slides (PDF - 1.3MB)" >}}
+> *   {{% resource_link 7da18b22-e745-677e-ae11-5a50e3a89179 "Lecture Slides (PDF - 1.3MB)" %}}
 
 Discussion
 ----------
 
-Some discussion content on this topic is provided within the next session on {{< resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Intelligence" >}}.
+Some discussion content on this topic is provided within the next session on {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Intelligence" %}}.
 
 Check Yourself
 --------------
@@ -174,4 +174,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« {{< resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" >}} | {{< resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Next" >}} »
+« {{% resource_link 0f5b6ec8-73d9-1de3-c9a7-12f95930c2bf "Previous" %}} | {{% resource_link 6d9b0bff-490c-c5ef-5d14-755460c9afd0 "Next" %}} »

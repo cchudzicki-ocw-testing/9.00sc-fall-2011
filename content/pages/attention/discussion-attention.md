@@ -9,12 +9,12 @@ title: 'Discussion: Attention'
 uid: 69560261-47e9-87b2-11c7-d60818b3adcf
 ---
 
-« {{< resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" >}}
+« {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}
 
 Session Overview
 ----------------
 
-How does the brain filter and focus? This discussion session complements the prior lecture session {{< resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Attention" >}}.
+How does the brain filter and focus? This discussion session complements the prior lecture session {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Attention" %}}.
 
 Discussion
 ----------
@@ -168,4 +168,4 @@ Data show that talking to somebody in the car with you is substantially less dan
 
 {{< /div-with-class >}}
 
-« {{< resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" >}}
+« {{% resource_link ddb63dde-65ae-0e9b-a26c-599b321fc842 "Previous" %}}

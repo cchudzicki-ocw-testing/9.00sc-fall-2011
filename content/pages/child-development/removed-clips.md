@@ -9,7 +9,7 @@ title: 'Removed Clips for Video Lecture 17: Child Development'
 uid: a2d38cc6-8bc4-816f-949a-4be4efa32027
 ---
 
-« {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" >}}
+« {{% resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" %}}
 
 Removed Clip 1: A video demonstrating how young children understand object permanence
 -------------------------------------------------------------------------------------
@@ -35,4 +35,4 @@ Removed Clip 4: "A Change of Mind"
 
 "A Change of Mind" (length 12 minutes). Program 26 from _Scientific American Frontiers Introductory Psychology Video Collection_. Worth Publishers, 2002.
 
-« {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" >}}
+« {{% resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Previous" %}}

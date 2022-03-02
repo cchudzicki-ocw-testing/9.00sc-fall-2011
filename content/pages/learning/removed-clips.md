@@ -9,7 +9,7 @@ title: 'Removed Clips for Video Lecture 9: Learning'
 uid: 24cb885c-d840-eef3-74aa-83552e6e1dc0
 ---
 
-« {{< resource_link ac69f1eb-8793-b39a-98cb-15527df3770a "Previous" >}}
+« {{% resource_link ac69f1eb-8793-b39a-98cb-15527df3770a "Previous" %}}
 
 Removed Clip 1: Excerpt from "Learning"
 ---------------------------------------
@@ -26,4 +26,4 @@ Removed Clip 3: Footage from Walter Mischel's delayed gratification experiment
 
 Video played in class of Walter Mischel's original footage not available, but similar footage of the same experiment with a Hispanic population is available on YouTube: "[Joachim de Posada says, Don't eat the marshmallow yet](http://www.youtube.com/watch?v=M0yhHKWUa0g)." Uploaded by [TEDtalksDirector](http://www.youtube.com/user/TEDtalksDirector), 2009.
 
-« {{< resource_link ac69f1eb-8793-b39a-98cb-15527df3770a "Previous" >}}
+« {{% resource_link ac69f1eb-8793-b39a-98cb-15527df3770a "Previous" %}}

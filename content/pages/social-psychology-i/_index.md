@@ -6,7 +6,7 @@ title: Social Psychology I
 uid: ccc3861a-7d57-ad0a-f405-18e6fb5674e7
 ---
 
-« {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" >}} | {{< resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Next" >}} »
+« {{% resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" %}} | {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Next" %}} »
 
 Session Overview
 ----------------
@@ -40,29 +40,29 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   Begin **one** of these chapters in your chosen textbook:
-    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 13, "The Social Psychology: Meeting of the Minds"
-        *   {{< resource_link 4f3f0ab1-b8f4-4d77-afd2-fd56d8e1d1b5 "Study outline for K&R Chapter 13 (PDF)" >}}
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 13, "The Social Psychology: Meeting of the Minds"
+        *   {{% resource_link 4f3f0ab1-b8f4-4d77-afd2-fd56d8e1d1b5 "Study outline for K&R Chapter 13 (PDF)" %}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 14 "Psychology in Our Social Lives"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   {{< resource_link 4ee2590b-54c3-1d71-1a1e-1f2cac1dcccd "Lecture 22: Social Psychology I" >}}
+> *   {{% resource_link 4ee2590b-54c3-1d71-1a1e-1f2cac1dcccd "Lecture 22: Social Psychology I" %}}
 > 
 > ### View by Chapter
 > 
-> *   {{< resource_link bf00025d-9118-5ede-f4ba-5f3e2a464105 "What is Social Psychology?" >}}
-> *   {{< resource_link 3e30be2b-4e19-d884-680e-62c5272b88d1 "Fundamental Attribution Error and Cognitive Busyness" >}}
-> *   {{< resource_link 3201b169-9911-bd44-0809-1ab189a44f53 "Pfc. England" >}}
-> *   {{< resource_link 8fbd15db-5aef-b939-2d73-8bf024953463 "Social Influence: Conformity, Compliance, and Obedience" >}}
-> *   {{< resource_link 84923cbe-3262-7681-2344-85d1e2a3be04 "Milgram Obedience Study and Stanford Prison Experiment" >}}
-> *   {{< resource_link bf9569c0-746a-94a6-9d31-bc633de4459c "Bystanders and Helping: The Bystander Effect" >}}
+> *   {{% resource_link bf00025d-9118-5ede-f4ba-5f3e2a464105 "What is Social Psychology?" %}}
+> *   {{% resource_link 3e30be2b-4e19-d884-680e-62c5272b88d1 "Fundamental Attribution Error and Cognitive Busyness" %}}
+> *   {{% resource_link 3201b169-9911-bd44-0809-1ab189a44f53 "Pfc. England" %}}
+> *   {{% resource_link 8fbd15db-5aef-b939-2d73-8bf024953463 "Social Influence: Conformity, Compliance, and Obedience" %}}
+> *   {{% resource_link 84923cbe-3262-7681-2344-85d1e2a3be04 "Milgram Obedience Study and Stanford Prison Experiment" %}}
+> *   {{% resource_link bf9569c0-746a-94a6-9d31-bc633de4459c "Bystanders and Helping: The Bystander Effect" %}}
 > 
 > ### Video Resources
 > 
-> *   {{< resource_link e6d54f5f-c23c-5c22-1e33-aaa567e1e77a "Removed Clips" >}}
-> *   {{< resource_link e0e09902-0314-9ab3-d54d-9f041015adee "Lecture Slides (PDF - 1.2MB)" >}}
+> *   {{% resource_link e6d54f5f-c23c-5c22-1e33-aaa567e1e77a "Removed Clips" %}}
+> *   {{% resource_link e0e09902-0314-9ab3-d54d-9f041015adee "Lecture Slides (PDF - 1.2MB)" %}}
 
 Check Yourself
 --------------
@@ -141,4 +141,4 @@ Practice test questions, flashcards, and media for a related textbook by Kosslyn
 
 {{< tableclose >}}
 
-« {{< resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" >}} | {{< resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Next" >}} »
+« {{% resource_link efd8e956-049b-f53f-d560-dda29527618d "Previous" %}} | {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Next" %}} »

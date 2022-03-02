@@ -6,7 +6,7 @@ title: Personality
 uid: 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21
 ---
 
-« {{< resource_link 6ec4e85f-0538-52ee-6466-8ad78b65ec3a "Previous" >}} | {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Next" >}} »
+« {{% resource_link 6ec4e85f-0538-52ee-6466-8ad78b65ec3a "Previous" %}} | {{% resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Next" %}} »
 
 Session Overview
 ----------------
@@ -40,32 +40,32 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook chapters:
-    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Chapter 8, "Personality: Vive la difference!"
-        *   {{< resource_link 9f9c8343-21e7-c5b6-777f-17db602245c8 "Study outline for K&R Chapter 8 (PDF)" >}}
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 8, "Personality: Vive la difference!"
+        *   {{% resource_link 9f9c8343-21e7-c5b6-777f-17db602245c8 "Study outline for K&R Chapter 8 (PDF)" %}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 11, "Personality"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   {{< resource_link 7d05683e-0e16-320a-333c-fb7fc8221df9 "Lecture 16: Personality" >}}
+> *   {{% resource_link 7d05683e-0e16-320a-333c-fb7fc8221df9 "Lecture 16: Personality" %}}
 > 
 > ### View by Chapter
 > 
-> *   {{< resource_link 0f313432-0dcf-37c9-7427-9c1716cbd428 "Personality and How It's Tested" >}}
-> *   {{< resource_link 7183bd73-ba83-fd02-2c73-233e69bba966 "Measures of Personality" >}}
-> *   {{< resource_link cd4a44c8-9205-7f49-ffaf-2381214028f6 "Origins of Personality" >}}
-> *   {{< resource_link e2a0361a-bf04-d951-c554-95f2b537de97 "Brain Correlates of Personality" >}}
+> *   {{% resource_link 0f313432-0dcf-37c9-7427-9c1716cbd428 "Personality and How It's Tested" %}}
+> *   {{% resource_link 7183bd73-ba83-fd02-2c73-233e69bba966 "Measures of Personality" %}}
+> *   {{% resource_link cd4a44c8-9205-7f49-ffaf-2381214028f6 "Origins of Personality" %}}
+> *   {{% resource_link e2a0361a-bf04-d951-c554-95f2b537de97 "Brain Correlates of Personality" %}}
 > 
 > ### Video Resources
 > 
 > *   [Big Five Personality Test](http://www.outofservice.com/bigfive/) (Online version of a handout in class)
-> *   {{< resource_link 4da7db14-0609-4228-4ec2-1f32709f01b9 "Lecture Slides (PDF - 1.6MB)" >}}
+> *   {{% resource_link 4da7db14-0609-4228-4ec2-1f32709f01b9 "Lecture Slides (PDF - 1.6MB)" %}}
 
 Discussion: Personality
 -----------------------
 
-Why do we behave as we do? How is it based on our predisposition to handle certain situations in certain ways? These are such interesting topics, and they're really at the core of psychology. Why do people do what they do? Some people like to talk to other people, and some people like to sit at home, and some people like to try new things… {{< resource_link 14f3a80a-3abe-0897-f998-844e35ba544f "Read more »" >}}
+Why do we behave as we do? How is it based on our predisposition to handle certain situations in certain ways? These are such interesting topics, and they're really at the core of psychology. Why do people do what they do? Some people like to talk to other people, and some people like to sit at home, and some people like to try new things… {{% resource_link 14f3a80a-3abe-0897-f998-844e35ba544f "Read more »" %}}
 
 Check Yourself
 --------------
@@ -156,4 +156,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« {{< resource_link 6ec4e85f-0538-52ee-6466-8ad78b65ec3a "Previous" >}} | {{< resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Next" >}} »
+« {{% resource_link 6ec4e85f-0538-52ee-6466-8ad78b65ec3a "Previous" %}} | {{% resource_link 997bafe5-99f3-c3e0-e5a8-007934413597 "Next" %}} »

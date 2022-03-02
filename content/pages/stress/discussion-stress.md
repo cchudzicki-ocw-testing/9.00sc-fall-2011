@@ -9,12 +9,12 @@ title: 'Discussion: Stress'
 uid: eb5da804-5a2a-1df9-f243-8af807f2017b
 ---
 
-« {{< resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Previous" >}}
+« {{% resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Previous" %}}
 
 Session Overview
 ----------------
 
-What is the science behind freaking out and keeping cool? This discussion session complements the prior lecture session {{< resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Stress" >}}.
+What is the science behind freaking out and keeping cool? This discussion session complements the prior lecture session {{% resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Stress" %}}.
 
 Discussion
 ----------
@@ -131,4 +131,4 @@ But if it is dangerous, you engage in secondary appraisal and determine what to 
 
 Once you've gone through these appraisal steps, how much stress the situation causes you is related to your perceived control over the situation. Typically, perceived control decreases stress. But when it comes to perceived control, there are a couple of caveats. Some people need control, and others find it even more stressful to be in control of a situation. Say you're in a class that has a group project, and you're the group leader. It's your job to make sure that the 5 other people in your group submit their materials on time, and you're the one the teacher will hold responsible. So, does that cause you more stress or less stress? Explain why, and give an example from real life.
 
-« {{< resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Previous" >}}
+« {{% resource_link 7c2c180c-bd50-5e62-bbf0-62d2d4926cae "Previous" %}}

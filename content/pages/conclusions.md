@@ -6,7 +6,7 @@ title: 'Conclusions: Evolutionary Psychology, Happiness'
 uid: 28acc476-566c-2161-f7cb-e0af48ee5d80
 ---
 
-« {{< resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" >}} | {{< resource_link 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778 "Next" >}} »
+« {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}} | {{% resource_link 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778 "Next" %}} »
 
 Session Overview
 ----------------
@@ -43,18 +43,18 @@ There are no assigned readings for this session.
 
 > ### View Full Video
 > 
-> *   {{< resource_link 598d7599-2cca-83fd-3f3d-dd66b7b8b190 "Lecture 24: Conclusions" >}}
+> *   {{% resource_link 598d7599-2cca-83fd-3f3d-dd66b7b8b190 "Lecture 24: Conclusions" %}}
 > 
 > ### View by Chapter
 > 
-> *   {{< resource_link acc41b45-8fa7-23cc-0745-585d168a4633 "Evolutionary Psychology: Views on Sexuality and Race" >}}
-> *   {{< resource_link d2fb1273-3c39-f2e1-d3a6-a45bc127d0c4 "Happiness: Can It Be Measured and Studied?" >}}
-> *   {{< resource_link 12be22cc-9039-04db-ea3f-01df0fc662b8 "Predicting Happiness: Affective Forecasting, the Paradox of Choice" >}}
+> *   {{% resource_link acc41b45-8fa7-23cc-0745-585d168a4633 "Evolutionary Psychology: Views on Sexuality and Race" %}}
+> *   {{% resource_link d2fb1273-3c39-f2e1-d3a6-a45bc127d0c4 "Happiness: Can It Be Measured and Studied?" %}}
+> *   {{% resource_link 12be22cc-9039-04db-ea3f-01df0fc662b8 "Predicting Happiness: Affective Forecasting, the Paradox of Choice" %}}
 > 
 > ### Video Resources
 > 
 > *   [Subjective Happiness Scale (SHS) self-assessment](http://sonjalyubomirsky.com/subjective-happiness-scale-shs/) (handout distributed during class)
-> *   {{< resource_link 71010302-8427-f017-f055-653147250c96 "Lecture Slides (PDF)" >}}
+> *   {{% resource_link 71010302-8427-f017-f055-653147250c96 "Lecture Slides (PDF)" %}}
 
 Further Study
 -------------
@@ -104,4 +104,4 @@ Talk by [Prof. Daniel Gilbert](http://gilbert.socialpsychology.org/), a leading 
 
 {{< tableclose >}}
 
-« {{< resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" >}} | {{< resource_link 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778 "Next" >}} »
+« {{% resource_link 25a2c26c-7f10-9797-3af3-7971963c5415 "Previous" %}} | {{% resource_link 1a6a0f8c-ca91-9e83-c67f-a4ac0d656778 "Next" %}} »

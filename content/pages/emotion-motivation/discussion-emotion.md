@@ -9,12 +9,12 @@ title: 'Discussion: Emotion'
 uid: 8f18b72f-2e72-4645-1a9f-00323d721732
 ---
 
-« {{< resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" >}}
+« {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" %}}
 
 Session Overview
 ----------------
 
-This discussion session complements the prior lecture session, {{< resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Emotion and Motivation" >}}.
+This discussion session complements the prior lecture session, {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Emotion and Motivation" %}}.
 
 Discussion
 ----------
@@ -45,7 +45,7 @@ Critical Thinking
 
 Classifying emotions is one thing, but explaining why we have emotions is quite another. Four major theories of emotion have been influential in describing the purpose of emotion: the _James-Lange theory_, the _Cannon-Bard theory_, the _cognitive theory_, and today's _emerging synthesis_ model. To review, describe the relationship between event and emotion in each model. Describe some evidence in support of the theory and some evidence against it. Finally, describe the roles of brain, body, memory, and interpretation in the emerging synthesis model.
 
-(Need help with this question? See {{< resource_link 346b32b9-1187-cd48-8571-d14bfc942eab "Study outline for K&R Chapter 7 (PDF)" >}}.)
+(Need help with this question? See {{% resource_link 346b32b9-1187-cd48-8571-d14bfc942eab "Study outline for K&R Chapter 7 (PDF)" %}}.)
 
 ### James-Lange Theory
 
@@ -93,4 +93,4 @@ Similarly, a happy mood could really affect how a person reacts to his bad grade
 
 {{< /div-with-class >}}
 
-« {{< resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" >}}
+« {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Previous" %}}

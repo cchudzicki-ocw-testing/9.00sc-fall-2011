@@ -9,12 +9,12 @@ title: 'Discussion: Memory'
 uid: f532f8a4-70da-048e-aaf5-8954f43c338e
 ---
 
-« {{< resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" >}}
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}}
 
 Session Overview
 ----------------
 
-How do we carry information forward in time? This discussion session complements the prior lecture sessions {{< resource_link 3f7aca32-309e-ae8c-98f0-cbd01eab2677 "Memory I" >}} and {{< resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Memory II" >}}.
+How do we carry information forward in time? This discussion session complements the prior lecture sessions {{% resource_link 3f7aca32-309e-ae8c-98f0-cbd01eab2677 "Memory I" %}} and {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Memory II" %}}.
 
 Demonstration
 -------------
@@ -97,12 +97,12 @@ Discussion
 
 Another way to classify memory is by whether it's _implicit_ or _explicit_. _Explicit memory_ is stuff that we could recall if we were asked to recall it, whereas _implicit memory_ is stuff that you do without any active representation or self-description. Implicit memory includes habits (stepping on the brake when you see a red light), skills (riding a bike), priming, and classical conditioning.
 
-Now might be a good time to review the difference between classical conditioning and operant conditioning. (Return to {{< resource_link dd2585a0-41b8-80df-fe5a-97414e3b4d5e "Discussion: Learning" >}} if you need a refresher.) Why is classical conditioning considered implicit memory, while operant conditioning is explicit?
+Now might be a good time to review the difference between classical conditioning and operant conditioning. (Return to {{% resource_link dd2585a0-41b8-80df-fe5a-97414e3b4d5e "Discussion: Learning" %}} if you need a refresher.) Why is classical conditioning considered implicit memory, while operant conditioning is explicit?
 
 Demonstration: Implicit Memory
 ------------------------------
 
-Listen as Tyler introduces the demonstration: ({{< resource_link c32db912-ada1-8c52-c21c-fc84111e7b3a "MP3" >}}) (0:00:40)
+Listen as Tyler introduces the demonstration: ({{% resource_link c32db912-ada1-8c52-c21c-fc84111e7b3a "MP3" %}}) (0:00:40)
 
 Then click to reveal a game.
 
@@ -125,7 +125,7 @@ A\_\_A\_\_IN
 
 {{< /div-with-class >}}
 
-After you've played the game, listen to Tyler's explanation: ({{< resource_link 78eb6844-c285-f61a-92d8-ca230ed5bbf7 "MP3" >}}) (0:03:12)
+After you've played the game, listen to Tyler's explanation: ({{% resource_link 78eb6844-c285-f61a-92d8-ca230ed5bbf7 "MP3" %}}) (0:03:12)
 
 {{< div-with-class "reveal5">}}
 
@@ -166,4 +166,4 @@ How did you do?
 
 {{< /div-with-class >}}
 
-« {{< resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" >}}
+« {{% resource_link 09f6f277-0863-76d7-7bf9-7f807f53d99f "Previous" %}}

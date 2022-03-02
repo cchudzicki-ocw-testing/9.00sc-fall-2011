@@ -9,12 +9,12 @@ title: 'Discussion: Personality'
 uid: 14f3a80a-3abe-0897-f998-844e35ba544f
 ---
 
-« {{< resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" >}}
+« {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" %}}
 
 Session Overview
 ----------------
 
-How do we become who we are? This discussion session complements the prior lecture session {{< resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Personality" >}}.
+How do we become who we are? This discussion session complements the prior lecture session {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Personality" %}}.
 
 Discussion
 ----------
@@ -138,4 +138,4 @@ As the cadets transition from high school to West Point, it's as if the standard
 
 To return to question about East Asian cultures, do you think it's an example of the same phenomenon? Remember, your personality is what distinguishes you from other people. Even if you are, in fact, very conscientious, in comparison to highly-conscientious people, you may rate yourself fairly low.
 
-« {{< resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" >}}
+« {{% resource_link 5eb89b5f-35aa-cb6b-620a-28b7c73d5d21 "Previous" %}}

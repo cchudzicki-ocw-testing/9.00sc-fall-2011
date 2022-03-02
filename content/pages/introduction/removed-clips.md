@@ -9,7 +9,7 @@ title: 'Removed Clips for Video Lecture 1: Introduction'
 uid: ef50431b-7ada-1984-07fc-7bb448203a5e
 ---
 
-« {{< resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" >}}
+« {{% resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" %}}
 
 Removed Clip 1: Checkershadow Illusion
 --------------------------------------
@@ -29,4 +29,4 @@ Removed Clip 2: Selective Attention Test
 
 This video is from [profsimons](http://www.youtube.com/user/profsimons) via YouTube, and is not covered under our [Creative Commons license](/terms/#cc).
 
-« {{< resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" >}}
+« {{% resource_link c5c3533b-2688-5392-8ef7-cf5bea62d6a4 "Previous" %}}

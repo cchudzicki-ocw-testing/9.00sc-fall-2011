@@ -6,7 +6,7 @@ title: Intelligence
 uid: 6d9b0bff-490c-c5ef-5d14-755460c9afd0
 ---
 
-« {{< resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Previous" >}} | {{< resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Next" >}} »
+« {{% resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Previous" %}} | {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Next" %}} »
 
 Session Overview
 ----------------
@@ -40,8 +40,8 @@ Session Activities
 Read the following before watching the lecture video.
 
 *   **One** of the following textbook selections:
-    *   \[{{< resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" >}}\] Finish Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
-        *   {{< resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" >}}
+    *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Finish Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
+        *   {{% resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" %}}
     *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Sections in Chapter 9, "Intelligence and Language"
         *   Introduction
         *   9.1: Defining and Measuring Intelligence
@@ -51,25 +51,25 @@ Read the following before watching the lecture video.
 
 > ### View Full Video
 > 
-> *   {{< resource_link 47583a56-8531-27cb-0d32-ea27a23306fb "Lecture 14: Intelligence" >}}
+> *   {{% resource_link 47583a56-8531-27cb-0d32-ea27a23306fb "Lecture 14: Intelligence" %}}
 > 
 > ### View by Chapter
 > 
-> *   {{< resource_link 32a02dbf-df6d-6275-8926-3e554cbb0f85 "What is Intelligence?" >}}
-> *   {{< resource_link a5d67a8a-7a19-ab48-a15d-c5488d5c4166 "IQ Tests: Validity and Value" >}}
-> *   {{< resource_link 8e6fac08-a03d-e72c-ff73-ecba15357b50 "Models of Intelligence and Underlying Neural Mechanisms" >}}
-> *   {{< resource_link e1a59664-b360-2da8-cb67-52c5e337b5eb "Contributions from Nature and Nurture" >}}
-> *   {{< resource_link 9d08d6d0-1c09-9db8-90bd-6bd5a091070e "Racism, Acheivement Gaps, and the Stereotype Threat" >}}
-> *   {{< resource_link a83b932c-1003-aded-3f64-a67b800784a8 "Interventions, Effort and Practice: Does Head Start Help?" >}}
+> *   {{% resource_link 32a02dbf-df6d-6275-8926-3e554cbb0f85 "What is Intelligence?" %}}
+> *   {{% resource_link a5d67a8a-7a19-ab48-a15d-c5488d5c4166 "IQ Tests: Validity and Value" %}}
+> *   {{% resource_link 8e6fac08-a03d-e72c-ff73-ecba15357b50 "Models of Intelligence and Underlying Neural Mechanisms" %}}
+> *   {{% resource_link e1a59664-b360-2da8-cb67-52c5e337b5eb "Contributions from Nature and Nurture" %}}
+> *   {{% resource_link 9d08d6d0-1c09-9db8-90bd-6bd5a091070e "Racism, Acheivement Gaps, and the Stereotype Threat" %}}
+> *   {{% resource_link a83b932c-1003-aded-3f64-a67b800784a8 "Interventions, Effort and Practice: Does Head Start Help?" %}}
 > 
 > ### Video Resources
 > 
-> *   {{< resource_link 5d08a223-19ff-9132-9ff3-9bc9dfcae172 "Lecture Slides (PDF - 2.0MB)" >}}
+> *   {{% resource_link 5d08a223-19ff-9132-9ff3-9bc9dfcae172 "Lecture Slides (PDF - 2.0MB)" %}}
 
 Discussion: Thinking & Intelligence
 -----------------------------------
 
-This discussion section covers thinking and intelligence. We'll discuss two topics: whether we think in words or pictures, and some approaches to creative problem solving… {{< resource_link 05a68009-c3c6-23d2-a788-f8858b6ebf30 "Read more »" >}}
+This discussion section covers thinking and intelligence. We'll discuss two topics: whether we think in words or pictures, and some approaches to creative problem solving… {{% resource_link 05a68009-c3c6-23d2-a788-f8858b6ebf30 "Read more »" %}}
 
 Check Yourself
 --------------
@@ -178,4 +178,4 @@ Practice test questions, flashcards, and media for a related textbook
 
 {{< tableclose >}}
 
-« {{< resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Previous" >}} | {{< resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Next" >}} »
+« {{% resource_link 13877f0d-e096-cd97-097b-21b89a257f99 "Previous" %}} | {{% resource_link b4449121-7bca-c751-42a3-a4cbf60a35fa "Next" %}} »
