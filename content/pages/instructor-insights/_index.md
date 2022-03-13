@@ -1,14 +1,13 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
 title: Instructor Insights
 uid: b4984c35-7427-1ba3-965f-29e67252d227
 ---
-//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "»", backText: "«", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
-## Course  Overview
+## Course Overview
 
 This page focuses on the course _9.00_ _Introduction to Psychology_ as it was taught by Prof. John Gabrieli in Spring 2011.
 
@@ -26,7 +25,7 @@ This course helps students understand how humans work, how people tick. It provi
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-## Instructor Insights
+## Instructor Interview
 
 _In the following pages, Prof. John Gabrieli describes various aspects of how he taught_ 9.00 Introduction to Psychology.
 
@@ -65,7 +64,9 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-{{< resource b1ad50ae-73c2-5fa3-64bc-4dda1e765a3d >}}
+### Enrollment
+
+Approximately 250 students.
 
 ### Breakdown by Year
 
@@ -77,14 +78,14 @@ Primarily freshmen.
 
 During an average week, students were expected to spend 4 hours on the course, roughly divided as follows:
 
-## Lecture
+### Lecture
 
 - 24 sessions that meet twice a week for 90 minutes
 - Lecture topics presented with slides
 - Reading discussion
 - In-class demonstrations when possible
 
-## Recitation
+### Recitation
 
 - Mandatory attendance and participation
 - TA-led weekly discussion sections
