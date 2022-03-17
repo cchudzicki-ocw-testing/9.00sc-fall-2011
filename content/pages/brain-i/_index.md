@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource 9091d8f6-d75c-28ff-9b3a-aba1544099c4 "Diagram showing side view of the human brain, with major brain regions in different colors." >}}
+{{< resource "9091d8f6-d75c-28ff-9b3a-aba1544099c4" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
