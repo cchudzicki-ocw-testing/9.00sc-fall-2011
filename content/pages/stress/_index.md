@@ -14,7 +14,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource 2cf8f0f9-1607-979c-4c97-ea915322d0a2 "Photo of stress balls with different cartoon facial expressions on them." >}}
+{{< resource "2cf8f0f9-1607-979c-4c97-ea915322d0a2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
