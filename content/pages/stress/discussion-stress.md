@@ -1,6 +1,7 @@
 ---
 content_type: page
 draft: false
+parent_uid: 7c2c180c-bd50-5e62-bbf0-62d2d4926cae
 title: 'Discussion: Stress'
 uid: eb5da804-5a2a-1df9-f243-8af807f2017b
 ---
