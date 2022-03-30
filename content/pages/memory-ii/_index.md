@@ -14,9 +14,9 @@ uid: 09f6f277-0863-76d7-7bf9-7f807f53d99f
 
 What conditions can impair your memory? How is your memory affected by these impairments? In this lecture, we will study amnesia, how it can influence our memory systems and how amnesia patients have helped us pinpoint areas in the brain crucial to memory. A particular highlight of this session is Prof. Gabrieli’s stories of working as a graduate student directly the famous amnesiac patient H. M.
 
-_Keywords:_ memory systems, amnesia, anterograde amnesia, retrograde amnesia, hippocampus, Huntington's disease, patient H.M., declarative memory, procedural memory
+*Keywords:* memory systems, amnesia, anterograde amnesia, retrograde amnesia, hippocampus, Huntington's disease, patient H.M., declarative memory, procedural memory
 
-_Cartoon of someone who has just been 'amnesiacked.' (Image by MIT OpenCourseWare)._
+*Cartoon of someone who has just been 'amnesiacked.' (Image by MIT OpenCourseWare).*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -30,7 +30,7 @@ Read the following before watching the lecture video.
 - Finish the chapter you started for the previous session:
     - \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 5, "The Biology of Mind and Behavior: The Brain in Action."
         - {{% resource_link 9e70f608-6eb2-8062-9f7b-d8c53e8fde7b "Study outline for K&R Chapter 5 (PDF)" %}}
-    - \[\[Stangor\]\]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 8, "Remembering and Judging"
+    - \[[Stangor](https://ocwnext.odl.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus#_Stangor_)\] Chapter 8, "Remembering and Judging"
 
 ### Lecture Videos
 
@@ -61,7 +61,7 @@ Name, describe and give examples of the two types of explicit memory and the thr
 
 {{< div-with-class "reveal1">}}
 
-› _View/hide answer_
+› *View/hide answer*
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
