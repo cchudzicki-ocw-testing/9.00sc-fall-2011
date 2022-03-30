@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '1268'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '531'
 title: Peripheral Bodily Events Influencing Emotion
 uid: 25fb59e5-30a6-ecf0-eefc-27ff126e0c8c
 video_files:

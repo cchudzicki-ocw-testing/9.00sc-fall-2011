@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3982'
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '2918'
 title: 'Bystanders and Helping: The Bystander Effect'
 uid: bf9569c0-746a-94a6-9d31-bc633de4459c
 video_files:

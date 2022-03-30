@@ -12,7 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1'
 title: 'Lecture 9: Learning'
 uid: 947c7874-107b-9090-835f-d5e71150803f
 video_files:
