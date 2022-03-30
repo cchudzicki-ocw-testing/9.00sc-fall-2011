@@ -14,9 +14,9 @@ uid: c4fbf121-480b-0561-6896-19683bc576cf
 
 How do we study particular topics in psychology? How is scientific psychology different from "common sense" or "folk" psychology? This session examines the research methods necessary to develop and test ideas, and highlights how even widely-discussed scientific studies can fall short of the truth.
 
-_Keywords:_ scientific experiment, validity, correlation vs. causation, stimulus and response, experimenter bias, confirmation bias, common sense
+*Keywords:* scientific experiment, validity, correlation vs. causation, stimulus and response, experimenter bias, confirmation bias, common sense
 
-_The broken windows theory is a popular, and frequently criticized, causal linking of urban disorder and vandalism to crime rates. (Image courtesy of Grant MacDonald on Flickr.)_
+*The broken windows theory is a popular, and frequently criticized, causal linking of urban disorder and vandalism to crime rates. (Image courtesy of Grant MacDonald on Flickr.)*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -30,7 +30,7 @@ Read the following before watching the lecture video.
 - **One** of the following textbook chapters:
     - Finish \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 1, "Introduction to the Science of Psychology: History and Research Methods"
         - {{% resource_link e37ac097-cb76-f267-10cd-c5ab47efa47a "Study outline for K&R Chapter 1 (PDF)" %}}
-    - \[\[Stangor\]\]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 2, "Psychological Science"
+    - \[Stangor\] Chapter 2, "Psychological Science"
 
 ### Lecture Videos
 
@@ -72,7 +72,7 @@ When conducting psychological research there are three main research designs tha
 
 {{< div-with-class "reveal1">}}
 
-› _Sample Answer_
+› *Sample Answer*
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
@@ -117,13 +117,13 @@ Blog
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Web activity
 {{< tdclose >}}{{< tdopen >}}
-[Research Methods: From Question to Conclusion](http://www.learner.org/discoveringpsychology/brain/). _Discovering Psychology._ WGBH Educational Foundation, 2001.
+[Research Methods: From Question to Conclusion](http://www.learner.org/discoveringpsychology/brain/). *Discovering Psychology.* WGBH Educational Foundation, 2001.
 {{< tdclose >}}{{< tdopen >}}
 Interactive quiz about how psychological research is conducted.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Chapter 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Chapter 1, "Psychology: Yesterday and Today." In [Kosslyn & Rosenberg, *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for a related textbook
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
