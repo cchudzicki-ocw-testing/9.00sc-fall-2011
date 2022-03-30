@@ -14,9 +14,9 @@ uid: efd8e956-049b-f53f-d560-dda29527618d
 
 How are mental disorders diagnosed and treated? This session explores the two main categories of psychological treatment – behavioral therapies and medical (drug) therapies. For OCD, depression and ADHD, we'll look at the current scientific understanding of these disorders and compare methods of treatment.
 
-_Keywords:_ psychotherapy, psychoanalysis, diagnosis, medication, psychopharmacology, CBT, depression, OCD, ADHD, ADD, Ritalin
+*Keywords:* psychotherapy, psychoanalysis, diagnosis, medication, psychopharmacology, CBT, depression, OCD, ADHD, ADD, Ritalin
 
-_Image: "Self-Portrait with Bandaged Ear," Vincent Van Gogh (1889)._
+*Image: "Self-Portrait with Bandaged Ear," Vincent Van Gogh (1889).*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
@@ -30,7 +30,7 @@ Read the following before watching the lecture video.
 - Finish the chapter you started for the previous session:
     - \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 12, "Treatment: Healing Actions, Healing Words"
         - {{% resource_link 20365c6d-91a9-c142-362e-31bf28a8d7ea "Study outline for K&R Chapter 12 (PDF)" %}}
-    - \[\[Stangor\]\]({{< baseurl >}}/pages/syllabus#_Stangor_) Finish Chapter 12, "Defining Psychological Disorders," and Chapter 13, "Treating Psychological Disorders."   
+    - \[[Stangor](https://ocwnext.odl.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus#_Stangor_)\] Finish Chapter 12, "Defining Psychological Disorders," and Chapter 13, "Treating Psychological Disorders."    
          
 
 ### Lecture Videos
@@ -72,7 +72,7 @@ CONTEXT
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Supplemental videos
 {{< tdclose >}}{{< tdopen >}}
-[_The World of Abnormal Psychology_](https://www.learner.org/series/the-world-of-abnormal-psychology/). Annenberg Learner, 1992.
+[*The World of Abnormal Psychology*](https://www.learner.org/series/the-world-of-abnormal-psychology/). Annenberg Learner, 1992.
 {{< tdclose >}}{{< tdopen >}}
 13 1-hour videos on various psychopathology topics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -84,7 +84,7 @@ Video about ADHD by the U.S. National Institute of Mental Health.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Textbook supplement
 {{< tdclose >}}{{< tdopen >}}
-Study materials for Ch. 15, "Psychological Disorders: Healing Actions, Healing Words." In [Kosslyn & Rosenberg, _Psychology in Context_, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
+Study materials for Ch. 15, "Psychological Disorders: Healing Actions, Healing Words." In [Kosslyn & Rosenberg, *Psychology in Context*, 3/e](http://www.pearsonhighered.com/educator/product/Fundamentals-of-Psychology-in-Context/9780205507573.page) (Pearson, 2007)
 {{< tdclose >}}{{< tdopen >}}
 Practice test questions, flashcards, and media for this related textbook
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
