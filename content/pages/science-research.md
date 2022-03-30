@@ -30,7 +30,7 @@ Read the following before watching the lecture video.
 - **One** of the following textbook chapters:
     - Finish \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 1, "Introduction to the Science of Psychology: History and Research Methods"
         - {{% resource_link e37ac097-cb76-f267-10cd-c5ab47efa47a "Study outline for K&R Chapter 1 (PDF)" %}}
-    - \[Stangor\] Chapter 2, "Psychological Science"
+    - \[[Stangor](https://ocwnext.odl.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus#_Stangor_)\] Chapter 2, "Psychological Science"
 
 ### Lecture Videos
 
