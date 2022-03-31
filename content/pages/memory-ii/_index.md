@@ -42,7 +42,7 @@ Read the following before watching the lecture video.
 > 
 > - {{% resource_link 5616858d-140a-419b-2d12-08ea2f595cf3 "The Importance of Memory" %}}
 > - {{% resource_link 44ba5623-9050-5159-b45b-b502153c9887 "Anterograde Amnesia: Patient H.M. and the Role of the Hippocampus in Memory Formation" %}}
-> - 22534055typesofmemoryandq&aaboutpatienth.m.60951107
+> - {{% resource_link 7ec23c33-9eeb-c001-702d-dbd1b835c2a1 "Types of Memory and Q&A about Patient H. M." %}}
 > - {{% resource_link 35f37a69-1949-1d6a-e7fa-da386f49ee5d "Retrograde Amnesia" %}}
 > - {{% resource_link ff327885-92e5-88cf-0ece-c2d78ff865e7 "Neural Memory Systems and the Effect of Huntington's and Alzheimer's Diseases on Memory" %}}
 > 
