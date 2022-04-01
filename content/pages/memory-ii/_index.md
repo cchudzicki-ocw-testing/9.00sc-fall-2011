@@ -30,7 +30,7 @@ Read the following before watching the lecture video.
 - Finish the chapter you started for the previous session:
     - \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 5, "The Biology of Mind and Behavior: The Brain in Action."
         - {{% resource_link 9e70f608-6eb2-8062-9f7b-d8c53e8fde7b "Study outline for K&R Chapter 5 (PDF)" %}}
-    - \[[Stangor](https://ocwnext.odl.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus#_Stangor_)\] Chapter 8, "Remembering and Judging"
+    - \[[Stangor](/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus#_Stangor_)\] Chapter 8, "Remembering and Judging"
 
 ### Lecture Videos
 
