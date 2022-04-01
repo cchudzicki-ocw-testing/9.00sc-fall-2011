@@ -30,7 +30,7 @@ Read the following before watching the lecture video.
 - Finish the chapter you started for the previous session:
     - \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 12, "Treatment: Healing Actions, Healing Words"
         - {{% resource_link 20365c6d-91a9-c142-362e-31bf28a8d7ea "Study outline for K&R Chapter 12 (PDF)" %}}
-    - \[[Stangor](/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus#_Stangor_)\] Finish Chapter 12, "Defining Psychological Disorders," and Chapter 13, "Treating Psychological Disorders."    
+    - \[{{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "Stangor" "#_Stangor_" %}}\] Finish Chapter 12, "Defining Psychological Disorders," and Chapter 13, "Treating Psychological Disorders."    
          
 
 ### Lecture Videos
