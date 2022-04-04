@@ -42,21 +42,21 @@ Read the following before watching the lecture video.
 *   **One** of the following textbook chapters:
     *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 10, "Stress, Health, and Coping : Dealing With Life"
         *   {{% resource_link fdc05826-e602-d432-7164-eaaf14129f11 "Study outline for K&R Chapter 10 (PDF)" %}}
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Section 10.2 in Chapter 10, "Emotion and Motivations"
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Section 10.2 in Chapter 10, "Emotion and Motivations"
 
 ### Lecture Videos
 
 > ### View Full Video
 > 
-> *   [Lecture 19: Stress]({{< baseurl >}}/resources/lecture-19-stress)
+> *   {{% resource_link "536f8217-3aef-e71f-a1b0-452e52f1ac4b" "Lecture 19: Stress" %}}
 > 
 > ### View by Chapter
 > 
 > *   {{% resource_link a412bc98-2267-d790-5e3e-80177ab18559 "Concepts of Stress" %}}
-> *   [Physical Stress Mechanism and Its Effects]({{< baseurl >}}/resources/physical-stress-mechanism-and-its-effects)
-> *   [Psychological Modifiers of the Stress Response]({{< baseurl >}}/resources/psychological-modifiers-of-the-stress-response)
-> *   [Embodied Cognition]({{< baseurl >}}/resources/embodied-cognition)
-> *   [Stereotypes and Stress]({{< baseurl >}}/resources/stereotypes-and-stress)
+> *   {{% resource_link "09aa83eb-a594-6904-2bad-25b463959314" "Physical Stress Mechanism and Its Effects" %}}
+> *   {{% resource_link "03932d1c-fa95-1258-37ff-f8bf72ccc30b" "Psychological Modifiers of the Stress Response" %}}
+> *   {{% resource_link "52ef5c67-c063-9234-9891-68b0d58ef414" "Embodied Cognition" %}}
+> *   {{% resource_link "d5ef317b-55cc-958b-5fdb-25732288649e" "Stereotypes and Stress" %}}
 > 
 > ### Video Resources
 > 

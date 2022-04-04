@@ -43,7 +43,7 @@ Read the following before watching the lecture video.
 *   **One** of the following textbook chapters:
     *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Start Chapter 6, "Language, Thinking, and Intelligence: What Humans Do Best"
         *   {{% resource_link ec89945b-5f56-6b6f-45ca-f926f53b1343 "Study outline for K&R Chapter 6 (PDF)" %}}
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 9, "Intelligence and Language"
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 9, "Intelligence and Language"
 
 ### Lecture Videos
 

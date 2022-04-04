@@ -42,7 +42,7 @@ Read the following before watching the lecture video.
 *   Begin **one** of these chapters in your chosen textbook:
     *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 13, "The Social Psychology: Meeting of the Minds"
         *   {{% resource_link 4f3f0ab1-b8f4-4d77-afd2-fd56d8e1d1b5 "Study outline for K&R Chapter 13 (PDF)" %}}
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 14 "Psychology in Our Social Lives"
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 14 "Psychology in Our Social Lives"
 
 ### Lecture Videos
 

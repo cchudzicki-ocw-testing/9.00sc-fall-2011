@@ -43,7 +43,7 @@ Read the following before watching the lecture video.
 *   Begin **one** of these chapters in your chosen textbook:
     *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 2, "The Biology of Mind and Behavior: The Brain in Action"
         *   {{% resource_link 0b4239da-8941-ad63-b996-4edbe5563106 "Study outline for K&R Chapter 2 (PDF)" %}}
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 3, "Brains, Bodies, and Behavior"
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 3, "Brains, Bodies, and Behavior"
 
 ### Lecture Videos
 

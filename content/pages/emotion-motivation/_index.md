@@ -43,7 +43,7 @@ Read the following before watching the lecture video.
 *   **One** of the following textbook chapters:
     *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 7, "Emotion and Motivation: Feeling and Striving"
         *   {{% resource_link 346b32b9-1187-cd48-8571-d14bfc942eab "Study outline for K&R Chapter 7 (PDF)" %}}
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 10, "Emotions and Motivations"
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 10, "Emotions and Motivations"
 
 ### Lecture Videos
 

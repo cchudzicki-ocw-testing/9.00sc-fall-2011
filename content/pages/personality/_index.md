@@ -42,7 +42,7 @@ Read the following before watching the lecture video.
 *   **One** of the following textbook chapters:
     *   \[{{% resource_link a054877a-419d-f49f-89be-dfb3073f58d1 "K&R" "#_K_R_" %}}\] Chapter 8, "Personality: Vive la difference!"
         *   {{% resource_link 9f9c8343-21e7-c5b6-777f-17db602245c8 "Study outline for K&R Chapter 8 (PDF)" %}}
-    *   [\[Stangor\]]({{< baseurl >}}/pages/syllabus#_Stangor_) Chapter 11, "Personality"
+    *   {{% resource_link "a054877a-419d-f49f-89be-dfb3073f58d1" "\[Stangor\]" "#_Stangor_" %}} Chapter 11, "Personality"
 
 ### Lecture Videos
 
