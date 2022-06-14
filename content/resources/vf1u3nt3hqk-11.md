@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/cdccb23e18305715aad0b862b969995f_vf1U3Nt3HQk.vtt
+file: /courses/9-00sc-introduction-to-psychology-fall-2011/cdccb23e18305715aad0b862b969995f_vf1U3Nt3HQk.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

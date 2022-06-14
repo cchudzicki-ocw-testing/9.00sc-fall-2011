@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/9-00sc-introduction-to-psychology-fall-2011/a0e956302f58369746838cafde6e2f63_atten_visual_search4.jpg
+file: /courses/9-00sc-introduction-to-psychology-fall-2011/a0e956302f58369746838cafde6e2f63_atten_visual_search4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
