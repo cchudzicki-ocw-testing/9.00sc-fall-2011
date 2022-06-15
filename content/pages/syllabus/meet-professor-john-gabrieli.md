@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to the course professor and information
+  on his research.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

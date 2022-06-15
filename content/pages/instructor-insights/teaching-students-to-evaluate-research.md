@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Prof. Gabrieli presents his evidence-based approach
+  to teaching psychology and his approach to encouraging critical thinking about psychological
+  questions. '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
