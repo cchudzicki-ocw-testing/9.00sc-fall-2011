@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides context for how the course materials published
+  on MIT OpenCourseWare were originally used at MIT. It includes a course overview,
+  instructor insights, and information on course outcomes, the curriculum, the classroom,
+  assessment, students, and how time was spent.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
