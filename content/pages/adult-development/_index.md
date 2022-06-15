@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

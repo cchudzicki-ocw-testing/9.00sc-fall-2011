@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 draft: false
 title: Psychopathology II
 uid: efd8e956-049b-f53f-d560-dda29527618d
