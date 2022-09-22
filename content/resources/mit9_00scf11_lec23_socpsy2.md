@@ -4,6 +4,7 @@ description: This resource contains information related to social psychology.
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/17bb1e442ad698a10e613e571624698d_MIT9_00SCF11_lec23_socpsy2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Social Psychology II
 parent_type: CourseSection

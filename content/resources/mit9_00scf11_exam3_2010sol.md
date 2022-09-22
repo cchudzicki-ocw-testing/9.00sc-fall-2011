@@ -5,6 +5,7 @@ description: This resource contains solution to the problem set related to 2010 
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/bba116faff125bb8de246752cc0eed9b_MIT9_00SCF11_exam3_2010sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exam 3
 parent_type: CourseSection

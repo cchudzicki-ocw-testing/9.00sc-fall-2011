@@ -4,6 +4,7 @@ description: This resource contains information related to brain I.
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/d152a8ad15228393cc7cba38353a6954_MIT9_00SCF11_lec03_brain1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'Brain I: Structure and Functions'
 parent_type: CourseSection

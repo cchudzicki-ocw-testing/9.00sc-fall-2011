@@ -5,6 +5,7 @@ description: 'This resource contains information related to language, thinking, 
 file: /courses/9-00sc-introduction-to-psychology-fall-2011/ec89945b5f566b6f45caf926f53b1343_MIT9_00SCF11_read_kr6.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Language
 parent_type: CourseSection
