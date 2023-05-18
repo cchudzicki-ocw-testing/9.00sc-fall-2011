@@ -23,6 +23,7 @@ start_time: '719'
 title: Physical Stress Mechanism and Its Effects
 uid: 09aa83eb-a594-6904-2bad-25b463959314
 video_files:
+  archive_url: http://www.archive.org/download/MIT9.00SCF11/MIT9_00SCF11_lec19_300k.mp4
   video_captions_file: /courses/9-00sc-introduction-to-psychology-fall-2011/e5a73d577f1150bd94d80e675c81f224_z9XQpjNgeBI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/z9XQpjNgeBI/default.jpg
   video_transcript_file: /courses/9-00sc-introduction-to-psychology-fall-2011/f09fac4614d86ea2c0136c1a7b341ed0_z9XQpjNgeBI.pdf
